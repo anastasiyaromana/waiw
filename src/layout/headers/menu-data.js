@@ -54,18 +54,6 @@ const menu_data = [
   {
     id: 5,
     mega_menu: false,
-    has_dropdown: true,
-    title: "Blog",
-    link: "/blog",
-    active: "",
-    sub_menus: [
-      { link: "/blog", title: "Blog" }, 
-      { link: "/blog-details", title: "Blog Details" }, 
-    ],
-  },
-  {
-    id: 6,
-    mega_menu: false,
     has_dropdown: false,
     title: "Contact",
     link: "/contact",
