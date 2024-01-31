@@ -18,19 +18,19 @@ const footer_two_content = {
         "Vendor Registration",
     ],
     google_map: "https://www.google.com/maps/place/254+Lillian+Blvd,+Holbrook,+NY+11741,+USA/@40.7937446,-73.0774993,17z/data=!3m1!4b1!4m5!3m4!1s0x89e8483b469d706f:0xa6841f8aafc2ef19!8m2!3d40.7937446!4d-73.0753106",
-    about_us: <>The world’s first and largest digital marketplace <br /> for crypto collectibles and non-fungible tokens (NFTs). Buy</>,
-    address: " 254 Lillian Blvd, Holbrook",
-    phone: "1-800-654-3210",
+    about_us: <>Advance your current field exploration <br /> - with cutting-edge AI stack</>,
+    address: " 256 Chapman Road STE 105-4, Newark, 19702, DE, USA",
+    phone: "+971 5858 43940 (WhatsApp)",
     email: "needhelp@company.com",
     footer_nav: [
         {title: "Home", link: "/"},
-        {title: "Company", link: "/"},
-        {title: "services", link: "/service"},
-        {title: "Resources", link: "#"},
-        {title: "Shop", link: "#"},
-        {title: "contact", link: "/contact"},
+        {title: "Company", link: "/about"},
+        {title: "Partners", link: "/about"},
+        {title: "Blog", link: "#"},
+        {title: "Trainings", link: "#"},
+        {title: "Contact", link: "/contact"},
     ],
-    mobile: "+88 1900 6789 56",
+    mobile: "+971 5858 43940 (WhatsApp)",
 
 
 }
