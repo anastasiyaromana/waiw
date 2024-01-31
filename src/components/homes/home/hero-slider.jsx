@@ -39,7 +39,7 @@ const slider_data = [
     sub_title_2: "AI solutions",
     hero_title_1: "Advance your current ",
     hero_title_2: "field exploration",
-    hero_support: "with cutting-edge AI stack",
+    hero_support: "with AI",
   },
   {
     id: 2,
