@@ -6,7 +6,7 @@ const menu_data = [
     mega_menu: false,
     has_dropdown: true,
     home_icon: <HomeIcon />,
-    title: "Home",
+    title: "Projects",
     link: "/",
     active: "",
     sub_menus: [ 
@@ -19,7 +19,7 @@ const menu_data = [
     id: 2,
     mega_menu: false,
     has_dropdown: false,
-    title: "Company",
+    title: "Partners",
     link: "/about",
     active: "",
   },   
@@ -27,7 +27,7 @@ const menu_data = [
     id: 3,
     mega_menu: false,
     has_dropdown: true,
-    title: "Services",
+    title: "Trainings",
     link: "/service",
     active: "",
     sub_menus: [
@@ -39,7 +39,7 @@ const menu_data = [
     id: 4,
     mega_menu: false,
     has_dropdown: true,
-    title: "Pages",
+    title: "Company",
     link: "/about",
     active: "",
     sub_menus: [
