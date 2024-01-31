@@ -36,10 +36,10 @@ const slider_data = [
     id: 1,
     bg_img: "/assets/img/hero/hero-2.jpg",
     sub_title_1: "best",
-    sub_title_2: "it solutions",
-    hero_title_1: "platform of",
-    hero_title_2: "Tech",
-    hero_support: "support",
+    sub_title_2: "AI solutions",
+    hero_title_1: "Advance your current ",
+    hero_title_2: "field exploration",
+    hero_support: "with cutting-edge AI stack",
   },
   {
     id: 2,
@@ -178,9 +178,9 @@ const HeroSlider = () => {
               <Image src={service_shape} alt="theme-pure" />
             </div>
             <p>
-              Our company provides a full range of <span>services</span> for the
-              cons <br />
-              private houses and cottages since 19
+              Solve your subsurface challenges with our <span>open-source</span> machine learning solutions 
+              <br />
+               dedicated to revolutionizing oil&gas exploration
             </p>
             <div className="tp-hero-service-quote">
               <Image src={service_quote} alt="theme-pure" />
