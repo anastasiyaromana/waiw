@@ -2,6 +2,7 @@ import HomeIcon from "@/src/svg/home-icon";
 
 const menu_data = [
   { 
+    id: 1,
     mega_menu: false,
     has_dropdown: true,
     home_icon: <HomeIcon />,
