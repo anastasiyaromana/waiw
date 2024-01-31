@@ -16,23 +16,23 @@ const about_data = [
     {
         id:1,
         img: about_img_1,
-        title: "Business services",
-        description: <>As far as we might be concerned <br /> making an extraordinary advanc
-        <br /> ed experience is a blend bet</>,
+        title: "Software development",
+        description: <>3D visualization of complex scientific data infused with AI <br /> algorithms create a rapid prototype of a field 
+        <br />  in a couple of hours</>,
     },
     {
         id:2,
         img: about_img_2,
-        title: "Education and training",
-        description: <>As far as we might be concerned <br /> making an extraordinary advanc
-        <br /> ed experience is a blend bet</>,
+        title: "Consulting services",
+        description: <>Expediting seismic processing on GPU <br /> with advanced ML algorithms.
+        <br /> Cost-effective approach for re-processing legacy data</>,
     },
     {
         id:2,
         img: about_img_3,
-        title: "Artificial intelligence",
-        description: <>As far as we might be concerned <br /> making an extraordinary advanc
-        <br /> ed experience is a blend bet</>,
+        title: "Professional training",
+        description: <>Delivering top-level hands on Data Science <br /> educational programs based on Open source
+        <br /> technologies tailored for E&P</>,
     },
     {
         id:1,
@@ -181,7 +181,7 @@ const AboutArea = () => {
                            <div className="tp-about-call">
                               <a href="tel:01310-069824">
                                  <p><i className="fa-solid fa-phone"></i> 
-                                 Provide IT services to hundreds customers <span>+88 01310-069824</span></p>
+                                 book a demo with our IT and Business consultants <span>+971 5858 43940 (WhatsApp)</span></p>
                               </a>
                            </div>
 
