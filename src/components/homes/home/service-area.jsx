@@ -99,17 +99,17 @@ const ServiceArea = () => {
         <>
             <div className="tp-service-funfact-box"> 
 
-               <section className="tp-service-area pt-85 pb-50">
+               <section className="tp-service-area pt-55 pb-50">
                   <div className="container-fluid">
                      <div className="row">
 
                         <div className="col-lg-12">
                            <div className="tp-service-title-wrapper text-center">
                               <span className="tp-section-title__pre">
-                                 service <span className="title-pre-color">IT Solutions</span> 
+                      
                                  <AngleArrow />                                 
                               </span>
-                              <h3 className="tp-section-title">All Professional <i>IT Solutions</i> & Services
+                              <h3 className="tp-section-title"> Our <i>Advantages</i> & Services
                                  <span className="title-center-shape"> 
                                     <LineArrowTwo />
                                  </span> 
@@ -122,7 +122,7 @@ const ServiceArea = () => {
                                  className="service-active splide">
                                  {service_data.map((item, i) => 
                                  <SplideSlide key={i}>
-                                       <div className="tp-service-wrapper p-relative mb-55">
+                                       <div className="tp-service-wrapper p-relative mb-35">
                                           <div className="tp-service-designation">
                                              <p>{item.alphabet}</p>
                                           </div>
@@ -156,7 +156,7 @@ const ServiceArea = () => {
                </section> 
 
                <section className="tp-fun-fact-area pt-80 pb-65 p-relative">
-                  <div className="container container-1400">
+                  <div className="container container-1800">
 
                      <div className="tp-fun-fact-shape">
                         <Image className="shape-1" src={fun_fact_shape_1} alt="theme-pure" />
