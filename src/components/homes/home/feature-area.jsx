@@ -18,13 +18,13 @@ const feature_content = {
         {
             id: 1,
             img: feature_img_1,
-            title: "Our mission",
+            title: "Our Projects",
             description: <>As far as we might be concerned <br /> making an extraordinary ad</>,
         },
         {
             id: 2,
             img: feature_img_2,
-            title: "About History",
+            title: "Our History",
             description: <>As far as we might be concerned <br /> making an extraordinary ad</>,
         },
         {
@@ -56,7 +56,7 @@ const FeatureArea = ({about}) => {
                            feature <span className="title-pre-color">IT Solutions</span>
                            <AngleArrow />
                         </span>
-                        <h3 className="tp-section-title">We’ve Been Thriving In <span className="title-color">38 Years</span>
+                        <h3 className="tp-section-title">Productizing AI technologies <span className="title-color">since 2016</span>
                            <span className="title-right-shape"> 
                               <LineArrowFive />
                            </span>
