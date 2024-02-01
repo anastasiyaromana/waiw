@@ -29,8 +29,8 @@ const BlogArea = () => {
                             </div>
                             <div className="col-lg-6">
                             <div className="tp-blog-text justify-content-start justify-content-lg-end d-flex">
-                                <p> Insights on AI applications in our industry through our Medium blog, 
-                            </br> where we publish articles like "Cook Your Own AI for Subsurface"
+                                <p>Insights on AI applications in our industry through our Medium blog, 
+                                    <br /> where we publish articles like "Cook Your Own AI for Subsurface"
                                 </p>
                             </div>
                             </div>
