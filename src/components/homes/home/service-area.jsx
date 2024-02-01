@@ -147,7 +147,7 @@ const ServiceArea = () => {
                      <div className="row">
                         <div className="col-lg-12">
                            <div className="tp-service-all-btn text-center fadeUp">
-                              <Link className="tp-btn" href="/service-details">View all Services</Link>
+                              <Link className="tp-btn" href="/service-details">View all details</Link>
                            </div>
                         </div>
                      </div>
@@ -190,29 +190,32 @@ const ServiceArea = () => {
                            <div className="tp-fun-fact-content">
                               <div className="tp-fun-fact-title-wrapper">
                                  <span className="tp-section-title__pre">
-                                    service <span className="title-pre-color">IT Solutions</span> 
                                     <AngleArrow />
                                  </span>
-                                 <h3 className="tp-section-title">Tech Change The World
+                                 <h3 className="tp-section-title">AI geologit's co-pilot
                                     <span className="title-left-shape"> 
                                     <LineArrowTwo />
                                     </span>
                                  </h3>
                                  <p>
-                                    Our company provides a full range of services for the construction of <br /> private houses and cottages since 19
+                                    Our models are heavily used <br /> to advance current field exploration 
                                  </p>
                                  <ul>
                                     <li>
                                        <span> <GreenRightArrow /></span>
-                                       series of manual and semi-manual activities.
+                                       Subsurface AI algorithms create a rapid prototype of a field in a couple of hours
                                     </li>
                                     <li>
                                        <span><GreenRightArrow /> </span>
-                                       onstruction is different from other industries.
+                                       Visual quality maps help instantly find errors and identify tricky areas
+                                    </li>
+                                    <li>
+                                       <span><GreenRightArrow /> </span>
+                                       The 3D layout reveals the detailed contours and structure of the underlying objects
                                     </li>
                                  </ul>
                                  <div className="tp-fun-fact-btn">
-                                    <Link className="tp-btn" href="/service-details">Tell us How Can We Help</Link>
+                                    <Link className="tp-btn" href="/service-details">Book a demo </Link>
                                  </div>
                               </div>
                            </div>
