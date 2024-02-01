@@ -9,7 +9,7 @@ const service_data = [
     {
         id: 1, 
         alphabet: "P",
-        title: <>Product <br /> development</>,
+        title: <>Open source <br /> AI solutions</>,
         img: service_img_1,
         description: <>As far as we might be concerned making an extraordinary As the complexity as </>,        
 
@@ -17,7 +17,7 @@ const service_data = [
     {
         id: 2, 
         alphabet: "V",
-        title: <>Voice Over <br /> Internet Protocol</>,
+        title: <>GPU with <br />  utmost parallelism</>,
         img: service_img_2,
         description: <>As far as we might be concerned making an extraordinary As the complexity as </>,       
 
@@ -25,7 +25,7 @@ const service_data = [
     {
         id: 3, 
         alphabet: "C",
-        title: <>Clouds <br /> Backup Services</>,
+        title: <>(therefore) Unbeatable <br /> performance</>,
         img: service_img_3,
         description: <>As far as we might be concerned making an extraordinary As the complexity as </>,        
 
@@ -33,7 +33,7 @@ const service_data = [
     {
         id: 4, 
         alphabet: "M",
-        title: <>Mobile and <br /> Remote Networking</>,
+        title: <>Quality control <br />and visualization on each step</>,
         img: service_img_4,
         description: <>As far as we might be concerned making an extraordinary As the complexity as </>,        
 
@@ -41,7 +41,15 @@ const service_data = [
     {
         id: 5, 
         alphabet: "D",
-        title: <>Data Backup <br /> and Restoration</>,
+        title: <>Multi-user <br /> environment</>,
+        img: service_img_2,
+        description: <>As far as we might be concerned making an extraordinary As the complexity as </>,        
+
+    },
+    {
+        id: 6, 
+        alphabet: "C",
+        title: <>Cloud <br /> and On-prem</>,
         img: service_img_2,
         description: <>As far as we might be concerned making an extraordinary As the complexity as </>,        
 
