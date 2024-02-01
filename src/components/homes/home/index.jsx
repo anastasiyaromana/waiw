@@ -5,7 +5,6 @@ import AboutArea from "./about-area";
 import FeatureArea from "./feature-area";
 import ServiceArea from "./service-area"; 
 import SupportArea from "./support-area";
-import SliderArea from "./slider-area";
 import FaqArea from "./faq-area";
 import BlogArea from "./blog-area";
 import Footer from "@/src/layout/footers/footer";
@@ -20,7 +19,6 @@ const HomeOne = () => {
         <FeatureArea />
         <ServiceArea />
         <SupportArea />
-        <SliderArea />
         <FaqArea />
         <BlogArea />
         <Footer />
