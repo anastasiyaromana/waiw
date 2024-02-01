@@ -19,7 +19,6 @@ const FaqArea = () => {
             <section className="tp-support-area tp-support-bg p-relative pb-110">
             <div className="container container-large">
                <div className="tp-support-shape">
-                  <Image className="shape-1" src={shape_1} alt="theme-pure" />
                   <Image className="shape-2" src={shape_2} alt="theme-pure" />
                </div>
                <div className="row justify-content-center">
