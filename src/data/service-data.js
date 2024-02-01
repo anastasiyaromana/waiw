@@ -33,7 +33,7 @@ const service_data = [
     {
         id: 4, 
         alphabet: "M",
-        title: <>Quality control <br />and visualization on each step</>,
+        title: <>Quality control <br />and visualization</>,
         img: service_img_4,
         description: <>As far as we might be concerned making an extraordinary As the complexity as </>,        
 
