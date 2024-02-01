@@ -32,8 +32,8 @@
     }
     &-content{
         z-index: 1;
-        padding-top: 130px;
-        padding-bottom: 162px;
+        padding-top: 230px;
+        padding-bottom: 262px;
         @media #{$lg,$md,$sm,$xs} {
             padding-top: 134px;
         }
@@ -63,7 +63,7 @@
             position: relative;
             font-weight: 700;
             font-size: 55px;
-            line-height: 95px;
+            line-height: 75px;
             text-transform: capitalize;
             color: var(--tp-text-2);
             margin-bottom: 25px;
