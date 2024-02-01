@@ -35,10 +35,10 @@ const slider_data = [
   {
     id: 1,
     bg_img: "/assets/img/hero/hero-2.jpg",
-    sub_title_1: "best",
-    sub_title_2: "AI solutions",
-    hero_title_1: "Advance your ",
-    hero_title_2: "field exploration",
+    sub_title_1: "AI",
+    sub_title_2: "in geoscience",
+    hero_title_1: "Revolutionizing ",
+    hero_title_2: " geoscience",
     hero_support: "with AI",
   },
   {
