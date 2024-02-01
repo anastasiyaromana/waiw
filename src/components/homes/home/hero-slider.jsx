@@ -37,9 +37,9 @@ const slider_data = [
     bg_img: "/assets/img/hero/hero-2.jpg",
     sub_title_1: "AI",
     sub_title_2: "in geoscience",
-    hero_title_1: "Revolutionizing ",
-    hero_title_2: " geoscience",
-    hero_support: "with AI",
+    hero_title_1: "Advance you current ",
+    hero_title_2: " Field exploration",
+    hero_support: "with cutting-edge AI stack",
   },
   {
     id: 2,
