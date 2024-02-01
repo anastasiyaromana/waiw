@@ -44,12 +44,6 @@ const HeaderOne = () => {
                            <div className="tp-header-top-info">
                               <ul>
                                  <li>
-                                    <a href="https://www.google.com/maps/@36.0758266,-79.4558848,17z" 
-                                    target="_blank"><span>
-                                       <i className="fa-sharp fa-solid fa-location-dot"></i>
-                                       </span>256 Chapman Road STE 105-4, Newark, USA, 19702</a>
-                                 </li>
-                                 <li>
                                     <a href="mailto:ai@analysiscenter.org"><span>
                                        <i className="fa-solid fa-envelope"></i></span>ai@analysiscenter.org
                                     </a>
@@ -65,7 +59,6 @@ const HeaderOne = () => {
                               </div>
                               <div className="header-social d-xxl-block d-none">
                                  <Link href="#"><i className="fa-brands fa-facebook"></i> Facebook</Link>
-                                 <Link href="#"><i className="fa-brands fa-twitter"></i> Skype</Link>
                                  <Link href="#"><i className="fa-brands fa-linkedin"></i> Linkedin</Link>
                               </div>
                            </div>
@@ -110,7 +103,7 @@ const HeaderOne = () => {
                                  <button onClick={() => setSearchOpen(true)}><i className="fa-regular fa-magnifying-glass"></i></button>
                               </div>
                                  <div className="tp-header-btn d-none d-xl-block pl-40">
-                                    <Link className="tp-btn" href="/contact">Get Started Today</Link>
+                                    <Link className="tp-btn" href="/contact">Book a demo</Link>
                                  </div>
                               </div>
                            </div>
