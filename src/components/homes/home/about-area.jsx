@@ -181,7 +181,8 @@ const AboutArea = () => {
                            <div className="tp-about-call">
                               <a href="tel:971585843940">
                                  <p><i className="fa-solid fa-phone"></i> 
-                                 book a demo with our IT and Business consultants </br></> <span>+971 5858 43940 (WhatsApp)</span></p>
+                                 book a demo with our IT and Business consultants </br><span>+971 5858 43940 (WhatsApp)</span>
+                                 </p>
                               </a>
                            </div>
 
