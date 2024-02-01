@@ -134,7 +134,7 @@ const AboutArea = () => {
                                     best <span className="title-pre-color">it service</span>
                                     <AngleArrow /> 
                                  </span>
-                                 <h3 className="tp-section-title">Geoscience industries we’re offering
+                                 <h3 className="tp-section-title">Geoscience Data industries we’re offering
                                     <span className="title-left-shape">
                                     <LineArrowTwo /> 
                                     </span>
