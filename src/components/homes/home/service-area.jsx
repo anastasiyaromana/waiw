@@ -98,7 +98,7 @@ const ServiceArea = () => {
         <>
             <div className="tp-service-funfact-box"> 
 
-               <section className="tp-service-area pt-55 pb-50">
+               <section className="tp-service-area pt-85 pb-50">
                   <div className="container-fluid">
                      <div className="row">
 
@@ -121,7 +121,7 @@ const ServiceArea = () => {
                                  className="service-active splide">
                                  {service_data.map((item, i) => 
                                  <SplideSlide key={i}>
-                                       <div className="tp-service-wrapper p-relative mb-35">
+                                       <div className="tp-service-wrapper p-relative mb-55">
                                           <div className="tp-service-designation">
                                              <p>{item.alphabet}</p>
                                           </div>
