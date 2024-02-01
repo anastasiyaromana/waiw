@@ -12,7 +12,6 @@ import GreenRightArrow from '@/src/svg/green-right-arrow';
 
 // fun fact shape
 import fun_fact_shape_1 from "@assets/img/fun-fact/shape-1.png";
-import fun_fact_shape_2 from "@assets/img/fun-fact/shape-2.png";
 import fun_fact_shape_3 from "@assets/img/fun-fact/shape-3.png";
 import fun_fact_shape_4 from "@assets/img/fun-fact/shape-4.png";
 import fun_fact_shape_5 from "@assets/img/fun-fact/shadow.png";
@@ -160,7 +159,6 @@ const ServiceArea = () => {
 
                      <div className="tp-fun-fact-shape">
                         <Image className="shape-1" src={fun_fact_shape_1} alt="theme-pure" />
-                        <Image className="shape-2" src={fun_fact_shape_2} alt="theme-pure" />
                         <Image className="shape-3" src={fun_fact_shape_3} alt="theme-pure" />
                         <Image className="shape-4" src={fun_fact_shape_4} alt="theme-pure" />
                         <Image className="shadow" src={fun_fact_shape_5} alt="theme-pure" />
