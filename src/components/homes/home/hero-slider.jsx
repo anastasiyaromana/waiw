@@ -10,7 +10,6 @@ import React, { useState, useEffect } from "react";
 
 import shape_1 from "@assets/img/hero/shape-1.png";
 import shape_2 from "@assets/img/hero/shape-2.png";
-import shape_3 from "@assets/img/hero/shape-3.png";
 import shape_4 from "@assets/img/hero/shape-4.png";
 import shape_5 from "@assets/img/hero/shape-7.png";
 import service_shape from "@assets/img/hero/shape-5.png";
@@ -37,9 +36,9 @@ const slider_data = [
     bg_img: "/assets/img/hero/hero-2.jpg",
     sub_title_1: "AI",
     sub_title_2: "in geoscience",
-    hero_title_1: "Advance current ",
-    hero_title_2: " field exploration",
-    hero_support: "with AI",
+    hero_title_1: "ADVANCE CURRENT ",
+    hero_title_2: " FIELD EXPLORATION ",
+    hero_support: " WITH AI",
   },
   {
     id: 2,
@@ -64,7 +63,6 @@ const slider_data = [
 const shapes = [ 
    {id_cls: 1, img: shape_1},
    {id_cls: 2, img: shape_2},
-   {id_cls: 3, img: shape_3},
    {id_cls: 4, img: shape_4},
    {id_cls: 7, img: shape_5},
 ]
