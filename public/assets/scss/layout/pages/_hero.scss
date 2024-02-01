@@ -32,8 +32,8 @@
     }
     &-content{
         z-index: 1;
-        padding-top: 230px;
-        padding-bottom: 262px;
+        padding-top: 130px;
+        padding-bottom: 162px;
         @media #{$lg,$md,$sm,$xs} {
             padding-top: 134px;
         }
