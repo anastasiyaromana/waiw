@@ -109,7 +109,7 @@ const ServiceArea = () => {
                       
                                  <AngleArrow />                                 
                               </span>
-                              <h3 className="tp-section-title"> Our <i>Advantages</i> & Services
+                              <h3 className="tp-section-title"> Our <i>Advantages</i>
                                  <span className="title-center-shape"> 
                                     <LineArrowTwo />
                                  </span> 
