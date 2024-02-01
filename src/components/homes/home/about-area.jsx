@@ -176,15 +176,7 @@ const AboutArea = () => {
                                         </div>
                                     </SwiperSlide>  
                                 )} 
-                                </Swiper> 
-
-                           <div className="tp-about-call">
-                              <a href="tel:971585843940">
-                                <p><i className="fa-solid fa-phone"></i> 
-                                 Provide IT services to hundreds customers <span>+88 01310-069824</span></p>
-                              </a>
-                           </div>
-
+                                </Swiper>
                         </div>
                      </div>
                   </div>
