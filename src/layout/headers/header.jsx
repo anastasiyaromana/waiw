@@ -47,38 +47,21 @@ const HeaderOne = () => {
                                     <a href="https://www.google.com/maps/@36.0758266,-79.4558848,17z" 
                                     target="_blank"><span>
                                        <i className="fa-sharp fa-solid fa-location-dot"></i>
-                                       </span>734 H, Bryan Burlington, NC 27215</a>
+                                       </span>256 Chapman Road STE 105-4, Newark, USA, 19702</a>
                                  </li>
                                  <li>
-                                    <a href="mailto:technix@support.com"><span>
-                                       <i className="fa-solid fa-envelope"></i></span>technix@support.com
+                                    <a href="mailto:ai@analysiscenter.org"><span>
+                                       <i className="fa-solid fa-envelope"></i></span>ai@analysiscenter.org
                                     </a>
                                  </li>
-                                 <li>
-                                    <div className="tp-header-lang-wrapper d-flex align-items-center">
-                                       <div className="tp-header-lang-img">
-                                          <Image src={LangLogo} alt="theme-pure" />
-                                       </div>
-                                       <div className="tp-header-lang">
-                                          <span className="tp-header-lang-selected-lang tp-lang-toggle" 
-                                          id="tp-header-lang-toggle" 
-                                          ref={langToggleRef}>English</span>
-                                           
-                                          <ul className={`tp-header-lang-list tp-lang-list ${isLangListOpen ? 'tp-lang-list-open' : ''}`}>
-                                             <li>Spanish</li>
-                                             <li>English</li>
-                                             <li>Canada</li>
-                                          </ul>
-                                       </div>
-                                    </div>
-                                 </li>
+
                               </ul>
                            </div>
                         </div>
                         <div className="col-xxl-6 col-xl-4">
                            <div className="tp-header-top-right d-flex justify-content-end align-items-center">
                               <div className="header-call">
-                                 <a href="tel:01310-069824"><i className="fa-solid fa-phone"></i> +88 01310-069824</a>
+                                 <a href="tel:01310-069824"><i className="fa-solid fa-phone"></i>+971585843940 (WhatsApp)</a>
                               </div>
                               <div className="header-social d-xxl-block d-none">
                                  <Link href="#"><i className="fa-brands fa-facebook"></i> Facebook</Link>
