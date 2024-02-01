@@ -17,14 +17,21 @@ const BlogArea = () => {
                             <div className="col-lg-6">
                             <div className="tp-blog-title-wrapper">
                                 <span className="tp-section-title__pre">
-                                    Upcoming <span className="title-pre-color">News</span>
+                                    Articles <span className="title-pre-color"> & Resources </span>
                                     <AngleArrow /> 
                                 </span>
-                                <h3 className="tp-section-title">Technical Blog & <span className="title-color">Open sources</span>
+                                <h3 className="tp-section-title">Technical Blog on Mediums & <span className="title-color">Libraries in GitHub</span>
                                     <span className="title-right-shape"> 
                                         <LineArrowThree />
                                     </span>
                                 </h3>
+                            </div>
+                            </div>
+                            <div className="col-lg-6">
+                            <div className="tp-blog-text justify-content-start justify-content-lg-end d-flex">
+                                <p>As the complexity of buildings to increase, the field of architecture 
+                                    <br /> became multi-disciplinary with technological expertise.
+                                </p>
                             </div>
                             </div>
                         </div>
