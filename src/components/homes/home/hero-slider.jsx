@@ -37,9 +37,9 @@ const slider_data = [
     bg_img: "/assets/img/hero/hero-2.jpg",
     sub_title_1: "AI",
     sub_title_2: "in geoscience",
-    hero_title_1: "Advance you current ",
-    hero_title_2: " Field exploration",
-    hero_support: "with cutting-edge AI stack",
+    hero_title_1: "Advance current ",
+    hero_title_2: " field exploration",
+    hero_support: "with AI",
   },
   {
     id: 2,
@@ -178,9 +178,11 @@ const HeroSlider = () => {
               <Image src={service_shape} alt="theme-pure" />
             </div>
             <p>
-              Solve your subsurface challenges with our <span>open-source</span> machine learning solutions 
+              Solve subsurface challenges with our <span>open-source</span>
+              <br /> 
+              machine learning solutions dedicated to
               <br />
-               dedicated to revolutionizing oil&gas exploration
+              revolutionizing oil&gas exploration
             </p>
          
           </div>
