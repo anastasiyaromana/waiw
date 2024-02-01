@@ -182,9 +182,7 @@ const HeroSlider = () => {
               <br />
                dedicated to revolutionizing oil&gas exploration
             </p>
-            <div className="tp-hero-service-quote">
-              <Image src={service_quote} alt="theme-pure" />
-            </div>
+         
           </div>
           
         </div>
