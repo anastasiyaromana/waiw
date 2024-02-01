@@ -20,7 +20,7 @@ const BlogArea = () => {
                                     Articles <span className="title-pre-color"> & Resources </span>
                                     <AngleArrow /> 
                                 </span>
-                                <h3 className="tp-section-title">Technical Blog on Mediums & <span className="title-color">Libraries in GitHub</span>
+                                <h3 className="tp-section-title">Technical Blog on Medium & <span className="title-color"> Resources on GitHub</span>
                                     <span className="title-right-shape"> 
                                         <LineArrowThree />
                                     </span>
@@ -50,8 +50,6 @@ const BlogArea = () => {
                             <div className="tp-blog-details ">
                                 <div className="tp-blog-date">
                                     <span><i className="fa-light fa-calendar-days"></i> {item.date} </span>
-                                    <span>-</span>
-                                    <span><i className="fa-sharp fa-solid fa-comments"></i> {item.comments}</span>
                                 </div>
                             </div>
                             <h3 className="tp-blog-title">
@@ -60,9 +58,6 @@ const BlogArea = () => {
                             <div className="tp-blog-btn d-flex justify-content-between">
                                 <div className="read-more p-relative">
                                     <Link href="/blog-details">Read More <span> <RightArrow /> </span></Link>
-                                </div>
-                                <div className="fvrt">
-                                    <span><i className="fa-light fa-heart"></i></span>
                                 </div>
                             </div>
                             </div>
