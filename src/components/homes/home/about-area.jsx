@@ -17,8 +17,8 @@ const about_data = [
         id:1,
         img: about_img_1,
         title: "Software development",
-        description: <>3D visualization of complex scientific data infused with AI <br /> algorithms create a rapid prototype of a field 
-        <br />  in a couple of hours</>,
+        description: <>3D visualization of complex scientific data infused with AI algorithms create a rapid prototype of a field 
+         in a couple of hours</>,
     },
     {
         id:2,
@@ -31,29 +31,28 @@ const about_data = [
         id:2,
         img: about_img_3,
         title: "Professional training",
-        description: <>Delivering top-level hands on Data Science <br /> educational programs based on Open source
-        <br /> technologies tailored for E&P</>,
+        description: <>Delivering top-level hands on Data Science educational programs based on Open source
+         technologies tailored for E&P</>,
     },
     {
         id:1,
         img: about_img_1,
         title: "Software development",
-        description: <>3D visualization of complex scientific data infused with AI <br /> algorithms create a rapid prototype of a field 
-        <br />  in a couple of hours</>,
+        description: <>3D visualization of complex scientific data infused with AI algorithms create a rapid prototype of a field in a couple of hours</>,
     },
    {
         id:2,
         img: about_img_2,
         title: "Consulting services",
-        description: <>Expediting seismic processing on GPU <br /> with advanced ML algorithms.
+        description: <>Expediting seismic processing on GPU with advanced ML algorithms.
         <br /> Cost-effective approach for re-processing legacy data</>,
     },
     {
         id:2,
         img: about_img_3,
         title: "Professional training",
-        description: <>Delivering top-level hands on Data Science <br /> educational programs based on Open source
-        <br /> technologies tailored for E&P</>,
+        description: <>Delivering top-level hands on Data Science educational programs based on Open source
+        technologies tailored for E&P</>,
     },
 ]
 
