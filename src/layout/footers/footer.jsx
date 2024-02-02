@@ -24,7 +24,7 @@ const footer_content = {
 
 
 }
-const {contact_us, mail, contact_text, phone, info, map, address, mail_2, mail_phone, service_links} = footer_content
+const {contact_us, mail, contact_text, phone, map, address, mail_2, mail_phone, service_links} = footer_content
 
 
 const Footer = () => {
@@ -63,14 +63,13 @@ const Footer = () => {
 
                     <div className="tp-footer-main-area">
                         <div className="row">
-                            <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="col-xl-3 col-lg-6 col-md-6">
                                 <div className="tp-footer-widget tp-footer-col-1">
                                 <div className="tp-footer-logo">
                                 <a href="index.html"> <Image src={footer_logo} alt="theme-pure" /></a>
                                 </div>
                                 <div className="tp-footer-widget-content">
                                     <div className="tp-footer-info">
-                                        <p>{info}</p>
                                         <div className="tp-footer-main-location">
                                             <a target='_blank' href={map}> <i className="fa-sharp fa-light fa-location-dot"></i> 
                                             {address}</a>
