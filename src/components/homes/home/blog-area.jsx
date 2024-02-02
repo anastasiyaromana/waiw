@@ -29,8 +29,8 @@ const BlogArea = () => {
                             </div>
                             <div className="col-lg-6">
                             <div className="tp-blog-text justify-content-start justify-content-lg-end d-flex">
-                                <p>As the complexity of buildings to increase, the field of architecture 
-                                    <br /> became multi-disciplinary with technological expertise.
+                                <p>We actively share our expertise and insights through our Medium blog, " 
+                                    <br /> including guides like "Cook Your Own AI for Subsurface.
                                 </p>
                             </div>
                             </div>
