@@ -32,7 +32,7 @@ const ServiceArea = () => {
                     </div>
                     <div className="row">
                         {our_service_data.map((item, i) => 
-                            <div key={i} className="col-xl-3 col-lg-4 col-md-6">
+                            <div key={i} className="col-xl-2 col-lg-2 col-md-3">
                                 <div className="tp-service-3-content breadcrumb-item mb-30">
                                 <div className="tp-service-3-content-thumb">
                                     <Image src={item.icon} alt="theme-pure" />
@@ -53,9 +53,9 @@ const ServiceArea = () => {
                     <div className="row justify-content-center">
                         <div className="col-xl-8 text-center">
                             <div className="tp-about-call fadeUp">
-                                <a href="tel:01310-069824">
+                                <a href="tel:971585843940">
                                     <p><i className="fa-solid fa-phone"></i> 
-                                    Provide IT services to hundreds customers <span>+91 123 456 789</span>
+                                    Drive AI-innovation and progress in your current field exploration <span>+971 5858 43940</span>
                                     </p>
                                 </a>
                             </div>
