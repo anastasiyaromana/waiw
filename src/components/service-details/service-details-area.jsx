@@ -75,16 +75,6 @@ const ServiceDetailsArea = () => {
                               </ul>
                            </div>
                         </div>
-
-                        <div className="tp-service-widget-item mb-40">
-                           <div className="tp-service-contact">
-                              <div className="tp-service-contact-form">
-                                <ServiceContactForm />
-                                 <p className="ajax-response"></p>
-                              </div>
-                           </div>
-                        </div>
-
                      </div>
                   </div>
                   <div className="col-lg-8">
