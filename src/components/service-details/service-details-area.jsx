@@ -17,6 +17,8 @@ const service_details_content = {
         {id: 5, title: "Multi-user environment", active: ""},
         {id: 6, title: "Cloud agnostic and deployable on prem as well", active: ""},
     ],
+    title: <>Based on open source solutions for AI</>,
+    description: <> </>,
     title_2: <>Why is it important ?</>,
     description_2: <>Open-source AI software solutions offer several advantages over closed-source ones, benefiting customers in various ways: </>,
     feture_list: [
@@ -38,8 +40,6 @@ const service_details_content = {
 <br |> 7. **Innovation and Speed of Development**: Open-source projects can evolve more quickly than their closed-source counterparts due to contributions from a global community. Diverse perspectives lead to innovative features and solutions, driving the rapid advancement of technology in ways that a single company might not achieve on its own.
 <br |> 8. **Quality and Reliability**: A common misconception is that open-source software is less reliable. However, with many users and contributors, issues are quickly identified and resolved. The collaborative nature of open-source development often leads to high-quality, well-tested, and reliable software solutions.
 </>,
-
-
 }
 const {service_details_tab, title_2, description_2, feture_list, description_3} = service_details_content
 
