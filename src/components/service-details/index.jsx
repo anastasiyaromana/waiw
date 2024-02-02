@@ -10,9 +10,8 @@ const ServiceDetails = () => {
     <>
       <HeaderOne />
       <main>
-        <Breadcrumb top_title="Machine Learning" page_title="Service Details" />
+        <Breadcrumb top_title="Platform and Solutions Advantages" />
         <ServiceDetailsArea />
-        <FooterContact bg_style={true} />
       </main>
       <FooterThree />
     </>
