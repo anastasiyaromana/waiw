@@ -10,30 +10,34 @@ import accordion from '@/src/data/accordion';
 
 const service_details_content = {
     service_details_tab: [
-        {id: 1, title: "Consumer Product", active: "active"},
-        {id: 2, title: "Marketing Analysis", active: ""},
-        {id: 3, title: "Speed Optimization", active: ""},
-        {id: 4, title: "Email Marketing", active: ""},
-        {id: 5, title: "Marketing Analysis", active: ""},
-        {id: 6, title: "Media Marketing", active: ""},
+        {id: 1, title: "Based on open source solutions for AI", active: "active"},
+        {id: 2, title: "Utilizing GPU with utmost parallelism", active: ""},
+        {id: 3, title: "(therefore) absolutely unbeatable performance", active: ""},
+        {id: 4, title: "Quality control and visualization on each step", active: ""},
+        {id: 5, title: "Multi-user environment", active: ""},
+        {id: 6, title: "Cloud agnostic and deployable on prem as well", active: ""},
     ],
-    title: <>Digital Marketing</>,
-    description: <>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat qui ducimus illum modi?  perspiciatis
-    accusamus soluta perferendis, ad illum, nesciunt, reiciendis iusto et cupidit Repudiandae provident to
-    consectetur, sapiente, libero iure necessitatibus corporis nulla voluptate, quisquam aut perspiciatis?
-    Fugiat labore aspernatur eius, perspiciatis ut molestiae, delectus rem.</>,
-    title_2: <>Why Marketing Important ?</>,
-    description_2: <>Lorem ipsum dolor sit amet, consectetur adipisici sed do eiusmod tempor incididunt ut labore et </>,
+    title_2: <>Why is it important ?</>,
+    description_2: <>Open-source AI software solutions offer several advantages over closed-source ones, benefiting customers in various ways: </>,
     feture_list: [
-        <>Research beyond the business plan</>,
-        <>Marketing options and rates</>,
-        <>The ability to turnaround consulting</>,
+        <>Transparency and Trust</>,
+        <>Security</>,
+        <>Customization and Flexibility</>,
+        <>Cost-Effectiveness</>,
+        <>Community Support and Collaboration</>,
+        <>Avoidance of Vendor Lock-in</>,
+        <>Innovation and Speed of Development</>,
+        <>Quality and Reliability</>,
     ],
-    description_3: <>Need something changed or is there something not quite working the way you envisaged? Is your van a
-    little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-    industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an
-    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not
-    only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</>,
+    description_3: <>1. **Transparency and Trust**: Open-source software's code is accessible for review, modification, and distribution. This transparency allows users to understand how the software operates, potentially increasing trust, especially in sensitive applications like AI where understanding the decision-making process or data handling is crucial.
+<br |> 2. **Security**: While open-source software is exposed to everyone, this can be a strength. More eyes on the code mean that security vulnerabilities can be identified and fixed rapidly by the community, as opposed to closed-source software, where vulnerabilities might go unnoticed or unaddressed until the company decides to act.
+<br |> 3. **Customization and Flexibility**: Open-source AI software can be freely modified to meet specific user needs. This adaptability can be particularly beneficial for businesses with unique requirements that off-the-shelf closed-source solutions cannot meet without expensive custom development.
+<br |> 4. **Cost-Effectiveness**: Open-source software is generally free to use, modify, and distribute. This can significantly reduce costs for businesses, especially startups or those looking to scale up, as there are no licensing fees or costs associated with product changes.
+<br |> 5. **Community Support and Collaboration**: Open-source projects often have active communities. Users can benefit from the collective knowledge and experience of a vast community of developers and users. This can lead to better support, more robust features, and faster resolution of issues compared to relying solely on a single vendor's support team.
+<br |> 6. **Avoidance of Vendor Lock-in**: With closed-source software, customers are often tied to one vendor's ecosystem, subject to their pricing, updates, and the future direction of the software. Open-source software offers an escape from vendor lock-in, providing the freedom to switch service providers or customize the software without contractual restrictions or the risk of obsolescence.
+<br |> 7. **Innovation and Speed of Development**: Open-source projects can evolve more quickly than their closed-source counterparts due to contributions from a global community. Diverse perspectives lead to innovative features and solutions, driving the rapid advancement of technology in ways that a single company might not achieve on its own.
+<br |> 8. **Quality and Reliability**: A common misconception is that open-source software is less reliable. However, with many users and contributors, issues are quickly identified and resolved. The collaborative nature of open-source development often leads to high-quality, well-tested, and reliable software solutions.
+</>,
 
 
 }
