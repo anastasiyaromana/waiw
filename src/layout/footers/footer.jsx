@@ -9,24 +9,19 @@ import EmailAeroplan from '@/src/svg/email-aeroplan';
 import SocialLinks, { CopyRight } from '@/src/common/social-links';
 
 const footer_content = { 
-    contact_us: <> Contact us at <span>@Themepure.com </span></>,
-    mail: "@themepure.gmail.com",
-    contact_text: "PERFECT SOLUTION From  It Advisor",
+    contact_us: <> Contact us at <span>partners@waiw.org </span></>,
+    mail: "@partners.waiw.org",
+    contact_text: "Book a demo with IT Advisor",
     phone: "92 666 888 0000",
     info: <>The world’s first and largest digital market for crypto collectibles and non-fungible (NFTs). Buy</>,
     map: "https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1",
     address: <>86 Road Broklyn Street, 600 <br /> New York, USA</>,
-    mail_2: "needhelp@company.com",
+    mail_2: "partners@waiw.org",
     mail_phone: <> Needhelp@company.com <br /> +92 666 888 0000</>,
 
 
     service_links: [
         "Parking permission",
-        "Fire Service Noc",
-        "Report a Parking Violation",
-        "Residential Parking",
-        "Vendor Registration",
-        "City Board Applications",
     ]
 
 
@@ -116,7 +111,6 @@ const Footer = () => {
                                     <ul>
                                         <li><Link href="#">Parking permission</Link></li>
                                         <li><Link href="#">Fire Service Noc</Link></li>
-                                        <li><Link href="#">Report a Parking Violation</Link></li>
                                     </ul>
                                 </div>
                                 </div>
