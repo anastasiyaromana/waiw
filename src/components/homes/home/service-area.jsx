@@ -52,7 +52,7 @@ const ServiceArea = () => {
       drag   : 'free',
       pagination: false,
       arrows: false,
-      perPage: 5,
+      perPage: 3,
       gap:'30px',
       breakpoints: {
          1800: {
@@ -117,9 +117,10 @@ const ServiceArea = () => {
                         </div>
 
                         <div className="tp-service-slider-wrapper">
-                              <Splide options={setting}  ref={splideRef}  
+                           {([0, 1].map((e, row_index) =>
+                              <Splide options={setting}  ref={splideRef}  key={row_index}
                                  className="service-active splide">
-                                 {service_data.map((item, i) => 
+                                 {Array.from(service_data).slice(row_index * 3, (row_index+1) * 3).map((item, i) => 
                                  <SplideSlide key={i}>
                                        <div className="tp-service-wrapper p-relative mb-55">
                                           <div className="tp-service-designation">
@@ -139,6 +140,7 @@ const ServiceArea = () => {
                                  </SplideSlide>
                                  )}
                               </Splide>
+                           ))}
                         </div>
 
                      </div>
@@ -174,13 +176,13 @@ const ServiceArea = () => {
                                        <Count number={item.count} text={item.icon} />
                                     </span></h3>
                                     <p>{item.info}</p>
-                                 </div>                              
+                                 </div>
                               )} 
                            </div>
                         </div>
                         <div className="col-lg-4 col-md-8">
                            <div className="tp-fun-fact-thumb p-relative">
-                              <Image id="reload" src={reload_img} alt="scroll" />
+                              <Image src={reload_img} alt="scroll" />
                            </div>
                         </div>
 
