@@ -4,14 +4,13 @@ const menu_data = [
   { 
     id: 1,
     mega_menu: false,
-    has_dropdown: false,
+    has_dropdown: true,
     title: "Projects",
     link: "/",
     active: "",
     sub_menus: [ 
       { link: "/", title: "Home 1" },
-      { link: "/home-2", title: "Home 2" },
-      { link: "/home-3", title: "Home 3" }, 
+      { link: "/service-details", title: "Advantages" },
     ],
   },
   {
