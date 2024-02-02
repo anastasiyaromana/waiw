@@ -38,8 +38,8 @@ const service_details_content = {
         5. **Community Support and Collaboration**: Open-source projects often have active communities. Users can benefit from the collective knowledge and experience of a vast community of developers and users. This can lead to better support, more robust features, and faster resolution of issues compared to relying solely on a single vendor's support team.
         6. **Avoidance of Vendor Lock-in**: With closed-source software, customers are often tied to one vendor's ecosystem, subject to their pricing, updates, and the future direction of the software. Open-source software offers an escape from vendor lock-in, providing the freedom to switch service providers or customize the software without contractual restrictions or the risk of obsolescence.
         7. **Innovation and Speed of Development**: Open-source projects can evolve more quickly than their closed-source counterparts due to contributions from a global community. Diverse perspectives lead to innovative features and solutions, driving the rapid advancement of technology in ways that a single company might not achieve on its own.
-        8. **Quality and Reliability**: A common misconception is that open-source software is less reliable. However, with many users and contributors, issues are quickly identified and resolved. The collaborative nature of open-source development often leads to high-quality, well-tested, and reliable software solutions.</>,
-</>
+        8. **Quality and Reliability**: A common misconception is that open-source software is less reliable. However, with many users and contributors, issues are quickly identified and resolved. The collaborative nature of open-source development often leads to high-quality, well-tested, and reliable software solutions.
+</>,
 }
 const {service_details_tab, title, desciption, title_2, description_2, feture_list, description_3} = service_details_content
 
