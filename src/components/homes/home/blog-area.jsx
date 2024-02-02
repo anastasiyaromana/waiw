@@ -37,7 +37,7 @@ const BlogArea = () => {
                         </div>
                     </div>
 
-                    {blog_data.slice(0, 5).map((item, i)  => 
+                    {blog_data.slice(0, 6).map((item, i)  => 
                     <div key={i} className="col-lg-4 col-md-6">
                         <div className="tp-blog-wrapper mb-30">
                             <div className="tp-blog-thumb">
