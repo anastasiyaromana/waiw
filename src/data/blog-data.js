@@ -46,9 +46,9 @@ const blog_data = [
         user: blog_user_4,
         user_name: "Jamil",
         category: "Business",
-        date: "02 Apr 2023",
+        date: "05 May 2023",
         comments: "Comments (03)",
-        title: <>Providing solutions for Industrial <br /> men, and restoration.</>,
+        title: <>Making SEG-Y fast.</>,
     },
     {
         id: 5, 
@@ -57,9 +57,9 @@ const blog_data = [
         user: blog_user_5,
         user_name: "Rasalina",
         category: "Business",
-        date: "02 Apr 2023",
+        date: "27 Mar 2023",
         comments: "Comments (23)",
-        title: <>Everything melancholy uncommonly but solicitude.</>,
+        title: <>Convolutions and Self-Attention or <br /> There and Back Again.</>,
     },
     {
         id: 6, 
@@ -68,9 +68,9 @@ const blog_data = [
         user: blog_user_6,
         user_name: "Hamim",
         category: "Business",
-        date: "02 Apr 2023",
+        date: "27 Jan 2023",
         comments: "Comments (15)",
-        title: <>Discovery incommode earnestly commanded mentions.</>,
+        title: <>Automatic lithology description: a history of failure.</>,
     },
 
 
