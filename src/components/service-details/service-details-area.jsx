@@ -18,9 +18,9 @@ const service_details_content = {
         {id: 6, title: "Cloud agnostic and deployable on prem as well", active: ""},
     ],
     title: <>Based on open source solutions for AI</>,
-    description: <> </>,
+    description: <>Open-source AI software solutions offer several advantages over closed-source ones, benefiting customers in various ways: </>,
     title_2: <>Why is it important ?</>,
-    description_2: <>Open-source AI software solutions offer several advantages over closed-source ones, benefiting customers in various ways: </>,
+    description_2: <> </>,
     feture_list: [
         <>Transparency and Trust</>,
         <>Security</>,
