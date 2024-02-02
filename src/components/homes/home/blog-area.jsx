@@ -21,8 +21,8 @@ const BlogArea = () => {
                                     <AngleArrow /> 
                                 </span>
                                 <h3 className="tp-section-title">Technical Blog on Medium & <span className="title-color"> Resources on GitHub</span>
-                                    <span className="title-right-shape"> 
-                                        <LineArrowThree />
+                                 <span className="title-right-shape"> 
+                                       
                                     </span>
                                 </h3>
                             </div>
