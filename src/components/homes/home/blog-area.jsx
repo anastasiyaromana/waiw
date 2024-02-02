@@ -37,11 +37,11 @@ const BlogArea = () => {
                         </div>
                     </div>
 
-                    {blog_data.slice(0, 3).map((item, i)  => 
+                    {blog_data.slice(1, 3).map((item, i)  => 
                     <div key={i} className="col-lg-4 col-md-6">
                         <div className="tp-blog-wrapper mb-30">
                             <div className="tp-blog-thumb">
-                            <Link href="/blog-details"><Image src={item.img} alt="theme-pure" /></Link>
+                            <Link href="https://medium.com/data-analysis-center"><Image src={item.img} alt="theme-pure" /></Link>
                             <div className="tp-blog-tag">
                                 <p>{item.category}</p>
                             </div>
@@ -53,11 +53,11 @@ const BlogArea = () => {
                                 </div>
                             </div>
                             <h3 className="tp-blog-title">
-                                <Link href="/blog-details">{item.title}</Link>
+                                <Link href="https://medium.com/data-analysis-center">{item.title}</Link>
                             </h3>
                             <div className="tp-blog-btn d-flex justify-content-between">
                                 <div className="read-more p-relative">
-                                    <Link href="/blog-details">Read More <span> <RightArrow /> </span></Link>
+                                    <Link href="https://medium.com/data-analysis-center">Read More <span> <RightArrow /> </span></Link>
                                 </div>
                             </div>
                             </div>
