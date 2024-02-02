@@ -65,8 +65,8 @@ const FeatureArea = ({about}) => {
                   </div>
                   <div className="col-lg-6">
                      <div className="tp-feature-wrapper p-relative">
-                        <p>As the complexity of buildings to increase, the field of architecture <br />
-                         became multi-disciplinary with technological expertise.</p>
+                        <p>Since 2016, the wAIw has been a forerunner in contributing to <br />
+                         open-source technology, specifically in AI applications for energy</p>
                      </div>
                   </div>
                </div>
