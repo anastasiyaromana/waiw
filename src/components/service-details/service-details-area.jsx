@@ -41,7 +41,7 @@ const service_details_content = {
 
 
 }
-const {service_details_tab, title, description, title_2, description_2, feture_list, description_3} = service_details_content
+const {service_details_tab, title_2, description_2, feture_list, description_3} = service_details_content
 
 const ServiceDetailsArea = () => {
   const [isVideoOpen, setIsVideoOpen] = useState(false);
