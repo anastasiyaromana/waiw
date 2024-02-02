@@ -4,9 +4,9 @@ import blog_img_1 from "@assets/img/blog/img-1.jpg";
 import blog_img_2 from "@assets/img/blog/img-2.jpg";
 import blog_img_3 from "@assets/img/blog/img-3.jpg"; 
 // home 03
-import blog_img_4 from "@assets/img/blog/img-7.jpg";
-import blog_img_5 from "@assets/img/blog/img-8.jpg";
-import blog_img_6 from "@assets/img/blog/img-9.jpg";
+import blog_img_4 from "@assets/img/blog/img-4.jpg";
+import blog_img_5 from "@assets/img/blog/img-5.jpg";
+import blog_img_6 from "@assets/img/blog/img-6.jpg";
 // user
 import blog_user_4 from "@assets/img/blog/user.png";
 import blog_user_5 from "@assets/img/blog/user.png";
