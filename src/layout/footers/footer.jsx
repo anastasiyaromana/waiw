@@ -15,9 +15,7 @@ const footer_content = {
     phone: "92 666 888 0000",
     info: <>The world’s first and largest digital market for crypto collectibles and non-fungible (NFTs). Buy</>,
     map: "https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1",
-    address: <>86 Road Broklyn Street, 600 <br /> New York, USA</>,
-    mail_2: "partners@waiw.org",
-    mail_phone: <> Needhelp@company.com <br /> +92 666 888 0000</>,
+    address: <>Al Fahidi Dubai Municipality King 44-43 office number <br /> Emirate of Dubai, UAE</>,
 
 
     service_links: [
@@ -83,57 +81,6 @@ const Footer = () => {
                                                 <i className="fa-light fa-message-dots"></i>{mail_phone}</a>
                                         </div>
                                     </div>
-                                </div>
-                                </div>
-                            </div>
-                            <div className="col-xl-3 col-lg-4 col-md-6">
-                                <div className="tp-footer-widget tp-footer-col-2">
-                                <h3 className="tp-footer-widget-title">Services Req</h3>
-                                <div className="tp-footer-widget-content">
-                                    <ul>
-                                        {service_links.map((link, i) => <li key={i}><Link href="#">{link}</Link></li>)} 
-                                    </ul>
-                                </div>
-                                </div> 
-                            </div>
-                            <div className="col-xl-3 col-lg-4 col-md-6">
-                                <div className="tp-footer-widget tp-footer-col-3">
-                                <h3 className="tp-footer-widget-title">Contact Info</h3>
-                                <div className="tp-footer-widget-content">
-                                    <div className="tp-footer-author d-flex">
-                                        <div className="tp-footer-author-thumb">
-                                            <Image src={user} alt="theme-pure" />
-                                        </div>
-                                        <div className="tp-footer-author-content">
-                                            <span>Chat With Expert <br /> Active Now</span>
-                                        </div>
-                                    </div>
-                                    <ul>
-                                        <li><Link href="#">Parking permission</Link></li>
-                                        <li><Link href="#">Fire Service Noc</Link></li>
-                                    </ul>
-                                </div>
-                                </div>
-                            </div>
-                            <div className="col-xl-3 col-lg-5 col-md-6">
-                                <div className="tp-footer-widget tp-footer-col-4">
-                                <h3 className="tp-footer-widget-title">Newsletter</h3>
-                                <div className="tp-footer-from">
-                                    <div className="tp-footer-text-email p-relative">
-                                        <input type="text" placeholder="Enter Email Address" />
-                                        <span> 
-                                            <EmailAeroplan />
-                                        </span>
-                                    </div>
-                                    <div className="tp-footer-form-check">
-                                        <input className="form-check-input" id="flexCheckChecked" type="checkbox" />
-                                        <label className="form-check-label" htmlFor="flexCheckChecked">
-                                            I agree to all your terms and policies
-                                        </label>
-                                </div>
-                                <div className="tp-footer-widget-social">
-                                    <SocialLinks /> 
-
                                 </div>
                                 </div>
                             </div>
