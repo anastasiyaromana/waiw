@@ -13,7 +13,6 @@ const footer_content = {
     mail: "@partners.waiw.org",
     contact_text: "Book a demo with IT Advisor",
     phone: "92 666 888 0000",
-    info: <>The world’s first and largest digital market for crypto collectibles and non-fungible (NFTs). Buy</>,
     map: "https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1",
     address: <>Al Fahidi Dubai Municipality King 44-43 office number <br /> Emirate of Dubai, UAE</>,
 
