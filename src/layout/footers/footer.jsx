@@ -63,7 +63,7 @@ const Footer = () => {
 
                     <div className="tp-footer-main-area">
                         <div className="row">
-                            <div className="col-xl-3 col-lg-2 col-md-6">
+                            <div className="col-xl-3 col-lg-12 col-md-6">
                                 <div className="tp-footer-widget tp-footer-col-1">
                                 <div className="tp-footer-logo">
                                 <a href="index.html"> <Image src={footer_logo} alt="theme-pure" /></a>
