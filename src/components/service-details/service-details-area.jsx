@@ -41,7 +41,7 @@ const service_details_content = {
         8. **Quality and Reliability**: A common misconception is that open-source software is less reliable. However, with many users and contributors, issues are quickly identified and resolved. The collaborative nature of open-source development often leads to high-quality, well-tested, and reliable software solutions.
 </>,
 }
-const {service_details_tab, title, desciption, title_2, description_2, feture_list, description_3} = service_details_content
+const {service_details_tab, title, description, title_2, description_2, feture_list, description_3} = service_details_content
 
 const ServiceDetailsArea = () => {
   const [isVideoOpen, setIsVideoOpen] = useState(false);
