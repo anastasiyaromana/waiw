@@ -39,7 +39,7 @@ const ContactArea = () => {
                             <div className="tp-contact-location-wrapper d-flex">
                                 <div className="tp-contact-location">
                                     <h3 className="tp-contact-location-title">
-                                        Office Location
+                                        WAIW COMPUTER SYSTEMS & COMMUNICATION EQUIPMENT SOFTWARE DESIGN
                                         <i className="fa-regular fa-arrow-down"></i>
                                     </h3>
                                     <p>Al Fahidi Dubai Municipality King 44-43 office number</p>
