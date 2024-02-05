@@ -12,15 +12,8 @@ const footer_content = {
     contact_us: <> Contact us at <span>partners@waiw.org </span></>,
     mail: "@partners.waiw.org",
     contact_text: "Book a demo with IT Advisor",
-    phone: "92 666 888 0000",
-    map: "https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1",
+    phone: "971585843940",
     address: <>Al Fahidi Dubai Municipality King 44-43 office number <br /> Emirate of Dubai, UAE</>,
-
-
-    service_links: [
-        "Parking permission",
-    ]
-
 
 
 }
@@ -52,7 +45,7 @@ const Footer = () => {
                                         </div>
                                         <div className="tp-footer-top-right-content">
                                             <p>{contact_text}</p>
-                                            <a href={`tel:${phone}`}>+92 666 888 0000</a>
+                                            <a href={`tel:${phone}`}>+971585843940</a>
                                         </div>
                                     </div>
                                 </div>
@@ -70,10 +63,6 @@ const Footer = () => {
                                 </div>
                                 <div className="tp-footer-widget-content">
                                     <div className="tp-footer-info">
-                                        <div className="tp-footer-main-location">
-                                            <a target='_blank' href={map}> <i className="fa-sharp fa-light fa-location-dot"></i> 
-                                            {address}</a>
-                                        </div>
                                         <div className="tp-footer-main-mail">
                                             <a href={`mailto:${mail_2}`}>
                                                 <i className="fa-light fa-message-dots"></i>{mail_phone}</a>
