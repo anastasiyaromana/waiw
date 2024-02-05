@@ -19,13 +19,21 @@ const support_contact = {
       revolutionizing oil and gas exploration through cutting-edge open-source machine learning solutions. <br />
       We lead in three distinct yet interconnected business domains: </>,
    lists: [
-      <>Software development.</>,
-      <>Consulting services.</>,
-      <>Professional training.</>,
+      <>Software development</>,
+      <>Consulting services</>,
+      <>Professional training</>,
    ]
-   
+}
+const software_dev = {
+   sub_title_1: "Software development",
+   info: <>3D visualisation of complex scientific data <br />
+infused with AI algorithms create a rapid prototype of a field in a couple of hours. <br />
+   Commercial software: GeoSurreal - AI co-pilot for geologist (released in 2023) <br />
+   Custom developemt and computer vision for cross-domain applications: HSE CV algorithms, Lithology labelling automation and ML-scaling </>,
 }
 const {sub_title_1, sub_title_2, info, lists} = support_contact
+const {sub_title_3, info_2} = software_dev
+
 
 const SupportArea = ()  => {
   const [isVideoOpen, setIsVideoOpen] = useState(false);
@@ -58,15 +66,12 @@ const SupportArea = ()  => {
                      </ul>
                      <div className="tp-support-breadcrumb-btn mb-30">
                         <h3 className="tp-section-title">
-                        {sub_title_1}
-                        <span className="title-color">
-                        {sub_title_2}
-                        </span>
+                        {sub_title_3}
                         <span className="title-left-shape">
                            <LineArrowTwo />
                         </span>
                      </h3>
-                        <p>{info}</p>
+                        <p>{info_1}</p>
                         <Link className="tp-btn" href="/service-details">Tell us how can we help</Link>
                      </div>
                   </div>
