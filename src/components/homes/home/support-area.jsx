@@ -18,7 +18,7 @@ const support_content = [
         symbol: "х",
         cls: "fadeLeft",
         title: "Boost process",
-        info: <>AI greatly speeds up processing <br /> of certain stages.</>
+        info: <>AI speeds up processing <br /> of stages.</>
     },
     {
         id: 3, 
@@ -26,7 +26,7 @@ const support_content = [
         symbol: "%",
         cls: "fadeRight",
         title: "Horizon coverage area",
-        info: <>Detects and visualises complex geo structures <br /> in high resolution.</>
+        info: <>Detects and visualises structures <br /> in high resolution.</>
     },
 ]
 
