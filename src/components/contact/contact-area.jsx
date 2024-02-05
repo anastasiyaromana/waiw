@@ -14,8 +14,8 @@ const ContactArea = () => {
                             <div className="tp-contact-title-wrapper">
                             <h3 className="tp-contact-title">Contact <span className="title-color">With us</span></h3> 
                             <p>Email, call, or complete the form to learn how wAIw can <br /> 
-                             solve your subsurface challenges or <br />
-                             book a demo with our AI-specialists and business manager.</p>
+                             solve your subsurface challenges or book a demo <br />
+                             with our AI-specialists and business manager.</p>
                             </div>
                             <div className="tp-contact-content">
                             <div className="tp-contact-content-mail d-flex align-items-center">
