@@ -6,27 +6,27 @@ import React from 'react';
 const support_content = [
     {
         id: 1, 
-        count: 8, 
-        symbol: "hr",
+        count: 20, 
+        symbol: "х",
         cls: "fadeLeft",
-        title: "Quick Result",
-        info: <>Average time to resolve <br /> cyber attack.</>
+        title: "Boost process",
+        info: <>AI greatly speeds up processing <br /> of certain stages.</>
     },
     {
-        id: 2, 
+        id: 1, 
         count: 3, 
         symbol: "hr",
         cls: "",
-        title: "Quick Reply",
-        info: <>Average time to resolve <br /> cyber attack.</>
+        title: "Quick Results",
+        info: <>To obtain stacked seismic cube compared with months  <br /> for conventional tools.</>
     },
     {
         id: 3, 
-        count: 94, 
+        count: 98.6, 
         symbol: "%",
         cls: "fadeRight",
-        title: "Quick Response",
-        info: <>Calling answered within <br /> 15 seconds.</>
+        title: "Horizon coverage area",
+        info: <>Detects and visualises complex geological structures <br /> in high resolution.</>
     },
 ]
 
