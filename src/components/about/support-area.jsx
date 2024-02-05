@@ -25,14 +25,14 @@ const support_contact = {
    ]
 }
 const software_dev = {
-   sub_title_1: "Software development",
-   info: <>3D visualisation of complex scientific data <br />
+   sub_title_3: "Software development",
+   info_1: <>3D visualisation of complex scientific data <br />
 infused with AI algorithms create a rapid prototype of a field in a couple of hours. <br />
    Commercial software: GeoSurreal - AI co-pilot for geologist (released in 2023) <br />
    Custom developemt and computer vision for cross-domain applications: HSE CV algorithms, Lithology labelling automation and ML-scaling </>,
 }
 const {sub_title_1, sub_title_2, info, lists} = support_contact
-const {sub_title_3, info_2} = software_dev
+const {sub_title_3, info_1} = software_dev
 
 
 const SupportArea = ()  => {
