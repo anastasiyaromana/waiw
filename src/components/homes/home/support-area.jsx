@@ -9,8 +9,8 @@ const support_content = [
         count: 3, 
         symbol: "hr",
         cls: "",
-        title: "To obtain stacked seismic cube",
-        info: <>Compared with months  <br /> by conventional tools.</>
+        title: "Obtain stacked seismic cube",
+        info: <>Compared with months <br /> by conventional tools.</>
     },
     {
         id: 1, 
