@@ -55,6 +55,7 @@ const ContactArea = () => {
                             <ContactForm /> 
                             <p className="ajax-response"></p>
                         </div>
+                        <p></p>
                     </div>
                 </div>
                 </div>
