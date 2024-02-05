@@ -8,25 +8,15 @@ import { SocialLinksTwo } from '@/src/common/social-links';
 import RightSymbol from '@/src/svg/right-symbol';
 
 const team_details_contact = {
-    name: "Cameron Williamson",
-    job_title: "Senior Reporter / Themepure",
-    member_info: <>Bangladesh / Age : 32 years</>,
-    description: <>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-    in some form, by injected humour, or randomised wo look even slightly believable. If you are going to use
-    a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle
-    Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first 
-    combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reas
-    characteristic words etc.</>,
-    list_title: <>World best education site - (Computer engeenering)</>,
+    name: "Software development",
+    {*/job_title: "Senior Reporter / Themepure",
+    member_info: <>Bangladesh / Age : 32 years</>, */}
+    description: <>3D visualisation of complex scientific data infused with AI algorithms create a rapid prototype of a field in a couple of hours.</>,
+    list_title: <>Commercial software & Custom developemt</>,
     lists: [
-        <>Research beyond the business plan</>,
-        <>Marketing options and rates</>,
-        <>The ability to turnaround consulting</>,
-        <>The ability to turnaround consulting</>,
+        <>GeoSurreal: GeoSurreal - AI co-pilot for geologist (released in 2023)</>,
+        <>Computer vision for cross-domain applications</>,
     ]
-
-
-
 }
 const {name, job_title, member_info, description, list_title, lists}  = team_details_contact
 
@@ -63,16 +53,6 @@ const TeamDetailsArea = () => {
                                        <p>{member_info}</p>
                                     </div>
                                  </div>
-                              </div>
-                           </div>
-                           <div className="col-lg-6">
-                              <div className="tp-team-details-rating d-flex">
-                                 <span><i className="fa-solid fa-star-sharp"></i></span>
-                                 <span><i className="fa-solid fa-star-sharp"></i></span>
-                                 <span><i className="fa-solid fa-star-sharp"></i></span>
-                                 <span><i className="fa-solid fa-star-sharp"></i></span>
-                                 <span className="deactive"><i className="fa-solid fa-star-sharp"></i></span>
-                                 <p>(22)</p>
                               </div>
                            </div>
                         </div>
