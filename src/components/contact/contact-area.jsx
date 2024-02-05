@@ -12,7 +12,7 @@ const ContactArea = () => {
                     <div className="col-lg-6">
                         <div className="tp-contact-wrapper">
                             <div className="tp-contact-title-wrapper">
-                            <h3 className="tp-contact-title">Contact <span className="title-color">With us</span></h3> 
+                            <h3 className="tp-contact-title">Contact <span className="title-color">with us</span></h3> 
                             <p>Email, call, or complete the form to learn how wAIw can <br /> 
                              solve your subsurface challenges or book a demo <br />
                              with our AI-specialists and business manager.</p>
