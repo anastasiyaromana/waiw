@@ -15,7 +15,7 @@ const ContactArea = () => {
                             <h3 className="tp-contact-title">Get <span className="title-color">in touch</span></h3> 
                             <p>If you have been in the field as long as we are, then you know - it gets lonely in here. <br /> 
                                 So, if you have in mind a proposal for collaboration or simply would like to let us know what you think, simply drop us an email.
-                                Or complete the form to learn how wAIw can solve your subsurface challenges and book a demo with our AI-specialists and business manager.</p>
+                                Or complete the form to learn how our team can solve your challenges and book a demo with our AI-specialists and business manager.</p>
                             </div>
                             <div className="tp-contact-content">
                             <div className="tp-contact-content-mail d-flex align-items-center">
