@@ -26,7 +26,7 @@ const support_content = [
         symbol: "%",
         cls: "fadeRight",
         title: "Horizon coverage area",
-        info: <>Detects and visualises structures <br /> in high resolution.</>
+        info: <>With quality control provided <br /> immediately.</>
     },
 ]
 
