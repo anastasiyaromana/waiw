@@ -14,7 +14,6 @@ const ServiceDetails = () => {
         <ServiceDetailsArea />
         <FooterContact />
       </main>
-      <FooterThree />
     </>
   );
 };
