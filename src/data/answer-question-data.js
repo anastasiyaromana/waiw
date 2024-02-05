@@ -1,8 +1,8 @@
 const answer_question_data = [
   {
     id: 1,
-    question: <>Can you provide of all IT Managenment services?</>,
-    answer: <>A Gdser has its own IP address, which is made public instead. While a rather seemingly insignificant change, the G.xber IP address can be used for a number of vital busines to everything from security to customer experience. IP address can be used</> ,
+    question: <>What open source development do you have?</>,
+    answer: <>We create SeismicPro and SeismiQB libraries to simplify seismic processing and interpretation. Additionally, SegFast enables rapid loading of SEG-Y files, while BatchFlow facilitates data management, ML model training, and related tasks. Two other libraries were developed for medical purposes: CardIO for in-depth analysis of electrocardiograms and RadIO for processing CT scans.</> ,
     accordion_id: "One", 
     collapsed: "collapsed",
     aria_expanded: false,
@@ -10,8 +10,8 @@ const answer_question_data = [
   },
   {
     id: 2,
-    question: <>How many hours we get as part of a managed agreement?</>,
-    answer: <>A Gdser has its own IP address, which is made public instead. While a rather seemingly insignificant change, the G.xber IP address can be used for a number of vital busines to everything from security to customer experience. IP address can be used</> ,
+    question: <>What specialists work on your team?</>,
+    answer: <>Our team includes highly qualified specialists in the field of machine learning, mathematics and computer science. Over the years, each team member has acquired qualifications in the Oil & Gas, especially in the field of seismic processing and interpretation.</> ,
     accordion_id: "Two", 
     collapsed: "",
     aria_expanded: true, 
@@ -20,8 +20,8 @@ const answer_question_data = [
   },
   {
     id: 3,
-    question: <>Why does my network website design need regular maintening?</>,
-    answer: <>A startup or start-up is started by individual founders or entrepreneurs to search for a repeatable and scalable business model. A startup or start-up is started by individual founders...</> ,
+    question: <>Do you have NLP and generative AI solutions?</>,
+    answer: <>Our tools include models based on latest LLMs for working with seismic projects using natural language. Using them, you can quickly get an answer to a question regarding a scenario for working with a project or brief information about the project based on the results of express interpretation.</> ,
     accordion_id: "Three", 
     collapsed: "collapsed",
     aria_expanded: false,
@@ -29,8 +29,17 @@ const answer_question_data = [
   },
   {
     id: 4,
-    question: <>How many hours we get as part of a managed agreement?</>,
-    answer: <>A startup or start-up is started by individual founders or entrepreneurs to search for a repeatable and scalable business model. A startup or start-up is started by individual founders...</> ,
+    question: <>At what conferences did you talk about your projects?</>,
+    answer: <>In recent years, we have been regular participants in the EAGE (Annual, Digital), SPE and many other conferences.</> ,
+    accordion_id: "Four", 
+    collapsed: "collapsed",
+    aria_expanded: false,
+    active: "",
+  },
+  {
+    id: 4,
+    question: <>How are your solutions delivered?</>,
+    answer: <>We provide both packaged solutions that you can deploy on your servers, as well as a service for processing your data.</> ,
     accordion_id: "Four", 
     collapsed: "collapsed",
     aria_expanded: false,
