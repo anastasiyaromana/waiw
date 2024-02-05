@@ -153,7 +153,7 @@ const ServiceArea = () => {
                         <Image className="shape-1" src={fun_fact_shape_1} alt="theme-pure" />
                         <Image className="shape-3" src={fun_fact_shape_3} alt="theme-pure" />
                         <Image className="shape-4" src={fun_fact_shape_4} alt="theme-pure" />
-                        <Image className="shadow" src={fun_fact_shape_5} alt="theme-pure" />
+                       {/* <Image className="shadow" src={fun_fact_shape_5} alt="theme-pure" />*/}
                      </div>
 
                      <div className="row">
@@ -182,7 +182,7 @@ const ServiceArea = () => {
                                  <span className="tp-section-title__pre">
                                     <AngleArrow />
                                  </span>
-                                 <h3 className="tp-section-title">AI geologit's co-pilot
+                                 <h3 className="tp-section-title">AI geologist's co-pilot
                                     <span className="title-left-shape"> 
                                     <LineArrowTwo />
                                     </span>
