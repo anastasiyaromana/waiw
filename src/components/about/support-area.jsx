@@ -2,6 +2,7 @@ import VideoPopup from "@/src/modals/video-popup";
 import AngleArrow from "@/src/svg/angle-arrow";
 import LineArrowTwo from "@/src/svg/line-arrow-2";
 import RightSymbol from "@/src/svg/right-symbol";
+import TeamDetailsArea from "@/src/components/team-details/team-details-area";
 import Link from "next/link";
 import { useState } from "react";
 import Image from "next/image";
@@ -71,16 +72,6 @@ const SupportArea = ()  => {
                            <li key={i}> <span> <RightSymbol /></span> {list}</li>
                         )} 
                      </ul>
-                     <div className="tp-support-breadcrumb-btn mb-30">
-                        <h3 className="tp-section-title">
-                        {sub_title_3}
-                        <span className="title-left-shape">
-                           <LineArrowTwo />
-                        </span>
-                     </h3>
-                        <p>{info_1}</p>
-                        <Link className="tp-btn" href="/service-details">Tell us how can we help</Link>
-                     </div>
                   </div>
                </div>
                <div className="col-lg-6">
@@ -99,6 +90,7 @@ const SupportArea = ()  => {
                   </div>
                </div>
             </div>
+            <TeamDetailsArea />
          </div>
       </section>
 
