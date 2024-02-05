@@ -14,12 +14,14 @@ import support_shape from "@assets/img/about/home-3/shape-1.png";
 
 const support_contact = {
    sub_title_1: "We’ve been stay",
-   sub_title_2: " 38 years",
-   info: <>Our company provides a full range of services for the <br /> construction of private houses and cottages since 19</>,
+   sub_title_2: " 13 years",
+   info: <>At the forefront of innovation, our AI company is dedicated to <br />
+      revolutionizing oil and gas exploration through cutting-edge open-source machine learning solutions. <br />
+      We lead in three distinct yet interconnected business domains: </>,
    lists: [
-      <>series of manual and semi-manual activities.</>,
-      <>Construction is different from other industries.</>,
-      <>Construction is different from other industries.</>,
+      <>Software development.</>,
+      <>Consulting services.</>,
+      <>Professional training.</>,
    ]
    
 }
@@ -36,7 +38,7 @@ const SupportArea = ()  => {
                <div className="col-lg-6">
                   <div className="tp-fun-fact-title-wrapper support-breadcrumb">
                      <span className="tp-section-title__pre">
-                        service <span className="title-pre-color">IT Solutions</span>
+                        service <span className="title-pre-color">AI Solutions</span>
                         <AngleArrow /> 
                      </span>
                      <h3 className="tp-section-title">
@@ -55,7 +57,17 @@ const SupportArea = ()  => {
                         )} 
                      </ul>
                      <div className="tp-support-breadcrumb-btn mb-30">
-                        <Link className="tp-btn" href="/service-details">Tell us How Can We Help</Link>
+                        <h3 className="tp-section-title">
+                        {sub_title_1}
+                        <span className="title-color">
+                        {sub_title_2}
+                        </span>
+                        <span className="title-left-shape">
+                           <LineArrowTwo />
+                        </span>
+                     </h3>
+                        <p>{info}</p>
+                        <Link className="tp-btn" href="/service-details">Tell us how can we help</Link>
                      </div>
                   </div>
                </div>
