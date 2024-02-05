@@ -23,7 +23,7 @@ const HomeOne = () => {
         <FaqArea />
         <BlogArea />
         <ContactArea />
-        <Footer />
+        {/*<Footer />*/}
       </main>
     </>
   );
