@@ -122,19 +122,11 @@ const ServiceArea = () => {
                               {service_data.map((item, i) => 
                                  <SplideSlide key={i}>
                                        <div className="tp-service-wrapper p-relative mb-55">
-                                          <div className="tp-service-designation">
-                                             <p>{item.alphabet}</p>
-                                          </div>
                                           <h3 className="service-title">{item.title}</h3>
                                           <div className="tp-service-icon">
                                              <Image src={item.img} alt="theme-pure" />
                                           </div>
                                           <p className="hide-text">{item.description}</p>
-                                          <div className="tp-service-btn">
-                                             <Link href="/service-details">Read Out More 
-                                             <i className="fa-solid fa-arrow-up-right"></i>
-                                             </Link>
-                                          </div>
                                        </div>
                                  </SplideSlide>
                                  )}
