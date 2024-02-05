@@ -13,8 +13,9 @@ const ContactArea = () => {
                         <div className="tp-contact-wrapper">
                             <div className="tp-contact-title-wrapper">
                             <h3 className="tp-contact-title">Contact <span className="title-color">With us</span></h3> 
-                            <p>Email, call, or complete the form to learn how Kion can <br /> 
-                             solve your cloud management and governance cha.</p>
+                            <p>Email, call, or complete the form to learn how wAIw can <br /> 
+                             solve your subsurface challenges or <br />
+                             book a demo with our AI-specialists and business manager.</p>
                             </div>
                             <div className="tp-contact-content">
                             <div className="tp-contact-content-mail d-flex align-items-center">
@@ -23,7 +24,7 @@ const ContactArea = () => {
                                         <EmailIconOne /> 
                                     </span>
                                 </div>
-                                <h3 className="tp-contact-item-title"><a href="mailto:@themepure.gmail.com">thepureingsai.co.uk</a></h3>
+                                <h3 className="tp-contact-item-title"><a href="mailto:@partners.waiw.org">partners@waiw.org</a></h3>
                             </div>
                             <div className="tp-contact-content-phone d-flex align-items-center">
                                 <div className="tp-contact-content-phone-icon">
@@ -32,7 +33,7 @@ const ContactArea = () => {
                                     </span>
                                 </div>
                                 <h3 className="tp-contact-item-title">
-                                    <a href="tel:9266688000">+880 123 456 789 , 99875</a>
+                                    <a href="tel:971566842766">+971-566842766</a>
                                 </h3>
                             </div>
                             <div className="tp-contact-location-wrapper d-flex">
@@ -41,13 +42,7 @@ const ContactArea = () => {
                                         Office Location
                                         <i className="fa-regular fa-arrow-down"></i>
                                     </h3>
-                                    <p>4517 Washington Ave. Manch ester, Kentucky 39495</p>
-                                </div>
-                                <div className="tp-contact-location">
-                                    <h3 className="tp-contact-location-title">
-                                        Office Location {" "}
-                                    <i className="fa-regular fa-arrow-down"></i></h3>
-                                    <p>4517 Washington Ave. Manch ester, Kentucky 39495</p>
+                                    <p>Al Fahidi Dubai Municipality King 44-43 office number</p>
                                 </div>
                             </div>
                             </div>
@@ -55,7 +50,7 @@ const ContactArea = () => {
                     </div>
                     <div className="col-lg-6">
                         <div className="tp-contact-form">
-                            <h3 className="tp-contact-form-title">Contact Us</h3>
+                            <h3 className="tp-contact-form-title">Book a demo-call | Contact us</h3>
                             <p>Your email address will not be published. Required fields <br  /> are marked *</p>
                             <ContactForm /> 
                             <p className="ajax-response"></p>
