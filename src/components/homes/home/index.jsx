@@ -22,8 +22,8 @@ const HomeOne = () => {
         <SupportArea />
         <FaqArea />
         <BlogArea />
-        <Footer />
         <ContactArea />
+        <Footer />
       </main>
     </>
   );
