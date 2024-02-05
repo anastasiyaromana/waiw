@@ -31,7 +31,7 @@ const feature_content = {
             id: 3,
             img: feature_img_3,
             title: "Our Partners",
-            description: <>We've equiped industry with services and fast and accurate solutions: algorithms, objective metrics, software.</>,
+            description: <>We've equiped industry with training programs, services and fast and accurate solutions: algorithms, objective metrics, software.</>,
         },
     ],
     
