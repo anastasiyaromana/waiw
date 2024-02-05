@@ -76,8 +76,9 @@ const SupportArea = ()  => {
                </div>
                <div className="col-lg-6">
                   <div className="tp-about-3-img p-relative fadeRight">
-                     <Image src={support_img_1} alt="theme-pure" />
-                     <Image className="shape-1" src={support_img_2} alt="theme-pure" />
+                     {/*  <Image src={support_img_1} alt="theme-pure" />
+                     <Image className="shape-1" src={support_img_2} alt="theme-pure" /> */}
+                     
                      <div className="shape-2 p-relative">
                         <Image src={support_img_3} alt="theme-pure" />
                         <div className="tp-video-play">
