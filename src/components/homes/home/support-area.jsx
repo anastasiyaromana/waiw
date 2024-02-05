@@ -6,19 +6,19 @@ import React from 'react';
 const support_content = [
     {
         id: 1, 
-        count: 20, 
-        symbol: "х",
-        cls: "fadeLeft",
-        title: "Boost process",
-        info: <>AI greatly speeds up processing <br /> of certain stages.</>
-    },
-    {
-        id: 1, 
         count: 3, 
         symbol: "hr",
         cls: "",
         title: "Quick Results",
         info: <>To obtain stacked seismic cube compared with months  <br /> for conventional tools.</>
+    },
+    {
+        id: 1, 
+        count: 20, 
+        symbol: "х",
+        cls: "fadeLeft",
+        title: "Boost process",
+        info: <>AI greatly speeds up processing <br /> of certain stages.</>
     },
     {
         id: 3, 
