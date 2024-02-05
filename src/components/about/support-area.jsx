@@ -29,10 +29,17 @@ const software_dev = {
    info_1: <>3D visualisation of complex scientific data <br />
 infused with AI algorithms create a rapid prototype of a field in a couple of hours. <br />
    Commercial software: GeoSurreal - AI co-pilot for geologist (released in 2023) <br />
-   Custom developemt and computer vision for cross-domain applications: HSE CV algorithms, Lithology labelling automation and ML-scaling </>,
+   Custom developemt and computer vision for cross-domain applications: HSE CV algorithms, Lithology labelling automation and ML-scaling. </>,
+}
+const cons_services = {
+   sub_title_4: "Consulting services",
+   info_2: <>Expediting seismic processing on GPU with advanced ML algorithms. Cost-effective approach for re-processing legacy data. 
+   Automation of ML algorithms transfer into production pipeline</>,
 }
 const {sub_title_1, sub_title_2, info, lists} = support_contact
 const {sub_title_3, info_1} = software_dev
+const {sub_title_4, info_2} = cons_services
+
 
 
 const SupportArea = ()  => {
