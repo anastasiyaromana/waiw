@@ -73,6 +73,7 @@ const SupportArea = ()  => {
                         )} 
                      </ul>
                   </div>
+                  <TeamDetailsArea />
                </div>
                <div className="col-lg-6">
                   <div className="tp-about-3-img p-relative fadeRight">
@@ -90,7 +91,6 @@ const SupportArea = ()  => {
                   </div>
                </div>
             </div>
-            <TeamDetailsArea />
          </div>
       </section>
 
