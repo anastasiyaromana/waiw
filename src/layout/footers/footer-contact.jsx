@@ -31,7 +31,7 @@ const FooterContact = ({bg_style, contact_style}) => {
                                         <Image src={headphone} alt="theme-pure" />
                                     </div>
                                     <div className="tp-cta-4-content">
-                                        <p>Contact us or Book a demo with our <span>It and Business experts</span></p>
+                                        <p>Tell us how we can help you </p>
                                         <a href="tel:971566842766">+971566842766</a>
                                     </div>
                                 </div>
