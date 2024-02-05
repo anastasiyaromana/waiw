@@ -10,7 +10,7 @@ const support_content = [
         symbol: "hr",
         cls: "",
         title: "Quick Results",
-        info: <>To obtain stacked seismic cube compared with months  <br /> for conventional tools.</>
+        info: <>To obtain stacked seismic cube compared with months  <br /> by conventional tools.</>
     },
     {
         id: 1, 
@@ -22,11 +22,11 @@ const support_content = [
     },
     {
         id: 3, 
-        count: 98.6, 
+        count: 98, 
         symbol: "%",
         cls: "fadeRight",
         title: "Horizon coverage area",
-        info: <>Detects and visualises complex geological structures <br /> in high resolution.</>
+        info: <>Detects and visualises complex geo structures <br /> in high resolution.</>
     },
 ]
 
