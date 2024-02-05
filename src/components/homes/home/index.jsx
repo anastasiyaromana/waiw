@@ -7,6 +7,7 @@ import ServiceArea from "./service-area";
 import SupportArea from "./support-area";
 import FaqArea from "./faq-area";
 import BlogArea from "./blog-area";
+import ContactArea from "@/src/components/contact/contact-area";
 import Footer from "@/src/layout/footers/footer";
 
 const HomeOne = () => {
@@ -22,6 +23,7 @@ const HomeOne = () => {
         <FaqArea />
         <BlogArea />
         <Footer />
+        <ContactArea />
       </main>
     </>
   );
