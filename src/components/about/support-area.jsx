@@ -93,6 +93,7 @@ const SupportArea = ()  => {
             </div>
          </div>
       <TeamDetailsArea />
+      
       </section>
 
        {/* video modal start */}
