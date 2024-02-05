@@ -19,19 +19,19 @@ const feature_content = {
             id: 1,
             img: feature_img_1,
             title: "Our Projects",
-            description: <>As far as we might be concerned <br /> making an extraordinary ad</>,
+            description: <>Jump-started from medical deep learning frameworks radio and cardio <br /> to oil and gas upstream, including seismic and petrophysics processing and interpretation</>,
         },
         {
             id: 2,
             img: feature_img_2,
             title: "Our History",
-            description: <>As far as we might be concerned <br /> making an extraordinary ad</>,
+            description: <>We are a data science team who brings into the industry AI-capabilities <br /> to provide super-human performance for unprecedented returns.</>,
         },
         {
             id: 3,
             img: feature_img_3,
             title: "Our Partners",
-            description: <>As far as we might be concerned <br /> making an extraordinary ad</>,
+            description: <>We've equiped industry experts with fast and accurate solutions: <br /> algorithms, objective metrics and services.</>,
         },
     ],
     
