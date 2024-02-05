@@ -50,7 +50,7 @@ const ContactArea = () => {
                     </div>
                     <div className="col-lg-6">
                         <div className="tp-contact-form">
-                            <h3 className="tp-contact-form-title">Book a demo-call | Contact us</h3>
+                            <h3 className="tp-contact-form-title">Book a demo-call or Contact us</h3>
                             <p>Your email address will not be published. Required fields <br  /> are marked *</p>
                             <ContactForm /> 
                             <p className="ajax-response"></p>
