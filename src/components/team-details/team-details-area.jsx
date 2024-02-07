@@ -9,8 +9,6 @@ import RightSymbol from '@/src/svg/right-symbol';
 
 const team_details_contact = {
     name: "Software development",
-    {/*job_title: "Senior Reporter / Themepure",
-    member_info: <>Bangladesh / Age : 32 years</>, */}
     description: <>3D visualisation of complex scientific data infused with AI algorithms create a rapid prototype of a field in a couple of hours.</>,
     list_title: <>Commercial software & Custom developemt</>,
     lists: [
