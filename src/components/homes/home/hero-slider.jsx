@@ -162,8 +162,8 @@ const HeroSlider = () => {
 
           <div className="tp-hero-bottom">
             <div className="tp-hero-experince">
-              <span className="year"> 13
-                <br /> <i className="experince">Years of Experince</i>
+              <span className="year"> ??
+                <br /> <i className="experince">Years of Experience</i>
               </span>
             </div>
           </div>
@@ -176,11 +176,9 @@ const HeroSlider = () => {
               <Image src={service_shape} alt="theme-pure" />
             </div>
             <p>
-              Solve subsurface challenges with our <span>open-source</span>
-              <br /> 
-              machine learning solutions dedicated to
-              <br />
-              revolutionizing oil&gas exploration
+              Solve subsurface challenges with our <br /> <span>open-source </span>
+              AI solutions dedicated to revolutionizing 
+              Oil & Gas exploration
             </p>
          
           </div>
