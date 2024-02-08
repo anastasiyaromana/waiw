@@ -275,6 +275,9 @@
     &-experince{
         display: flex;
         text-align: center;
+        @media #{$md} {
+            display: none;
+        }
         & .year{
             position: relative;
             font-weight: 600;
@@ -305,18 +308,14 @@
         z-index: 1;
         right: 0;
         bottom: 0;
-        height: 161px;
-        width: 608px;
+        height: 221px;
+        width: 808px;
         background-color: var(--tp-theme-primary);
-        @media #{$lg} {
-            width: 480px;
-        }
-        @media #{$md} {
-            width: 450px;
-        }
         @media #{$sm,$xs} {
-           display: none;
+            width: 440px;
+            height: 121px;
         }
+
         &-shape{
             position: absolute;
             right: 0;
@@ -327,35 +326,40 @@
             padding: 55px 55px;
             font-style: normal;
             font-weight: 400;
-            font-size: 18px;
-            line-height: 30px;
+            font-size: 38px;
+            line-height: 45px;
+            @media #{$sm,$xs} {
+                padding: 25px 25px;
+                font-size: 18px;
+                line-height: 22px;
+            }
             margin-bottom: 0;
             color: var(--tp-common-white);
-            & br{
-                @media #{$lg,$md} {
-                    display: none;
-                }
-            }
+            // & br{
+            //     @media #{$lg,$md} {
+            //         display: none;
+            //     }
+            // }
             @media #{$lg,$md} {
                 padding: 38px 60px;
             }
             & span{
                 color: #FFB302;
             }
-            &::before {
-                content: '';
-                background: var(--tp-theme-secondary);
-                height: 48px;
-                width: 1px;
-                left: 45px;
-                top: 64px;
-                z-index: 3;
-                position: absolute;
-                @media #{$lg} {
-                    height: 70px;
-                    top: 50px;
-                }
-              }
+            // &::before {
+            //     content: '';
+            //     background: var(--tp-theme-secondary);
+            //     height: 48px;
+            //     width: 1px;
+            //     left: 45px;
+            //     top: 64px;
+            //     z-index: 3;
+            //     position: absolute;
+            //     @media #{$lg} {
+            //         height: 70px;
+            //         top: 50px;
+            //     }
+            //   }
         }
         &-quote {
             background: var(--tp-common-white);
