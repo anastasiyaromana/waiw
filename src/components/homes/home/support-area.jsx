@@ -14,11 +14,11 @@ const support_content = [
     },
     {
         id: 1, 
-        count: 20, 
-        symbol: "х",
+        count: 18, 
+        symbol: "min",
         cls: "fadeLeft",
-        title: "Boost process",
-        info: <>AI speeds up processing <br /> of stages.</>
+        title: "For faults predictions",
+        info: <>Instant and detailed, <br /> on 1930km field area.</>
     },
     {
         id: 3, 
