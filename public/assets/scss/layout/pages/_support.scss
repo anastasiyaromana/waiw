@@ -113,7 +113,7 @@
         }
         &-title{
             font-weight: 600;
-            font-size: 18px;
+            font-size: 16px;
             line-height: 30px;
             color: var(--tp-theme-primary);
             margin-bottom: 3px;
@@ -123,7 +123,7 @@
         }
         & p{
             font-weight: 400;
-            font-size: 18px;
+            font-size: 16px;
             margin-bottom: 0;
             @media #{$lg,$xs} {
                 line-height: 25px;
