@@ -76,11 +76,11 @@
             width: 240px;
         }
         & .support-feature-title {
-            font-weight: 700;
-            font-size: 36px;
+            font-weight: 600;
+            font-size: 42px;
             color: var(--tp-common-white);
             margin-bottom: 0;
-            margin-left: 20px;
+            margin-left: 10px;
             z-index: 1;
             @media #{$xl,$lg,$xs} {
                 margin-left: 10px;
@@ -166,7 +166,7 @@
             & .tp-faq-tab-content {
                 & .accordion-item {
                     border: none;
-                    box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.05);
+                    box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.05);
                     & .accordion-button{
                         padding: 33px 55px 33px 54px;
                         color: #020626;
