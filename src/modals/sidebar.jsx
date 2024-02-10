@@ -86,7 +86,7 @@ const Sidebar = ({sidebarOpen, setSidebarOpen, home_three}) => {
                             <i className="fa-solid fa-envelope"></i>
                             </div>
                             <div className="offcanvas__contact-content-content">
-                            <a href="mailto:partners@waiw.org">Needhelp@company.com  </a>
+                            <a href="mailto:partners@waiw.org">waiw.org  </a>
                             </div>
                         </div>
                         <div className="offcanvas__contact-content d-flex">
