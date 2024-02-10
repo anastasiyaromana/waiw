@@ -14,7 +14,7 @@ const Portfolio = () => {
         <PortfolioArea />
         <FooterContact bg_style={true} />
       </main>
-      <FooterThree />
+      {/* <FooterThree />*/}
     </>
   );
 };
