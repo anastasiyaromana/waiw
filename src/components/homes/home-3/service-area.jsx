@@ -55,11 +55,11 @@ const ServiceArea = () => {
                         <div className="col-xl-6">
                             <div className="tp-service-3-title-wrapper">
                                 <span className="tp-section-title__pre">
-                                service <span className="title-pre-color">IT Solutions</span>
+                                service <span className="title-pre-color">AI Solutions</span>
                                 <AngleArrow /> 
                                 </span>
                                 <h3 className="tp-section-title">
-                                    Data Analysis Center: <span className="title-color">history </span> <br /> and open source legacy
+                                    WAIW (Data Analysis Center): <span className="title-color">history </span> <br /> and open source legacy
                                 </h3>
                             </div>
                         </div>
