@@ -13,11 +13,11 @@ const menu_data = [
     id: 2,
     mega_menu: false,
     has_dropdown: true,
-    title: "Projects",
+    title: "Solutions",
     link: "/",
     active: "",
     sub_menus: [ 
-      { link: "/portfolio", title: "Projects" },
+      { link: "/portfolio", title: "Solutions" },
       { link: "/service-details", title: "Advantages" },
     ],
   },   
