@@ -11,7 +11,7 @@ import about_img_3 from "@assets/img/about/icon-3.png";
 import LineArrowTwo from '@/src/svg/line-arrow-2';
 import shape_1 from "@assets/img/about/shape-1.png";
 import about from "@assets/img/about/about-1.png";
-import PortfolioArea from "@/src/components/pages/portfolio/portfolio-details";
+import PortfolioArea from "@/src/components/portfolio/portfolio-area";
 
 const about_data = [
     {
