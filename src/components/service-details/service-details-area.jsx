@@ -33,17 +33,24 @@ const service_details_content = {
     ],
     description_3: <>1. Transparency and Trust: Open-source software's code is accessible for review, modification, and distribution. This transparency allows users to understand how the software operates, potentially increasing trust, especially in sensitive applications like AI where understanding the decision-making process or data handling is crucial.
         <br /> 
+        <br /> 
         2. Security: While open-source software is exposed to everyone, this can be a strength. More eyes on the code mean that security vulnerabilities can be identified and fixed rapidly by the community, as opposed to closed-source software, where vulnerabilities might go unnoticed or unaddressed until the company decides to act.
+        <br /> 
         <br /> 
         3. Customization and Flexibility: Open-source AI software can be freely modified to meet specific user needs. This adaptability can be particularly beneficial for businesses with unique requirements that off-the-shelf closed-source solutions cannot meet without expensive custom development.
         <br /> 
+        <br /> 
         4. Cost-Effectiveness: Open-source software is generally free to use, modify, and distribute. This can significantly reduce costs for businesses, especially startups or those looking to scale up, as there are no licensing fees or costs associated with product changes.
         <br />
+        <br /> 
         5. Community Support and Collaboration: Open-source projects often have active communities. Users can benefit from the collective knowledge and experience of a vast community of developers and users. This can lead to better support, more robust features, and faster resolution of issues compared to relying solely on a single vendor's support team.
+        <br /> 
         <br /> 
         6. Avoidance of Vendor Lock-in: With closed-source software, customers are often tied to one vendor's ecosystem, subject to their pricing, updates, and the future direction of the software. Open-source software offers an escape from vendor lock-in, providing the freedom to switch service providers or customize the software without contractual restrictions or the risk of obsolescence.
         <br /> 
+        <br /> 
         7. Innovation and Speed of Development: Open-source projects can evolve more quickly than their closed-source counterparts due to contributions from a global community. Diverse perspectives lead to innovative features and solutions, driving the rapid advancement of technology in ways that a single company might not achieve on its own.
+        <br /> 
         <br /> 
         8. Quality and Reliability: A common misconception is that open-source software is less reliable. However, with many users and contributors, issues are quickly identified and resolved. The collaborative nature of open-source development often leads to high-quality, well-tested, and reliable software solutions.
 </>,
@@ -150,7 +157,7 @@ const ServiceDetailsArea = () => {
             <VideoPopup 
                 isVideoOpen={isVideoOpen}
                 setIsVideoOpen={setIsVideoOpen}
-                videoId={"csnD5EVL5z8"}
+                videoId={"O9nV-YsO1wU"}
             />
             {/* video modal end */}
         </>
