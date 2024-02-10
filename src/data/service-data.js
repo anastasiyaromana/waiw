@@ -19,15 +19,15 @@ const service_data = [
         alphabet: "V",
         title: <>GPU with <br />  utmost parallelism</>,
         img: service_img_2,
-        description: <>As far as we might be concerned making an extraordinary As the complexity as </>,       
+        description: <>The proposed tools maximize the utilization of computing resources, reducing the time to obtain the result to a minimum </>,       
 
     },
     {
         id: 3, 
         alphabet: "C",
-        title: <>(therefore) Unbeatable <br /> performance</>,
+        title: <>Multi-user <br /> environment</>,
         img: service_img_3,
-        description: <>As far as we might be concerned making an extraordinary As the complexity as </>,        
+        description: <>The tools can be deployed both locally and within the cloud platform, making collaboration on a project even faster.</>,        
 
     },
     {
@@ -35,15 +35,15 @@ const service_data = [
         alphabet: "M",
         title: <>Quality control <br />and visualization</>,
         img: service_img_4,
-        description: <>As far as we might be concerned making an extraordinary As the complexity as </>,        
+        description: <>Our algorithms meticulously evaluate each step of seismic processing and interpretation, enabling swift detection and correction of data errors.</>,        
 
     },
     {
         id: 5, 
         alphabet: "D",
-        title: <>Multi-user <br /> environment</>,
+        title: <>(therefore) Unbeatable <br /> performance</>,
         img: service_img_2,
-        description: <>As far as we might be concerned making an extraordinary As the complexity as </>,        
+        description: <></>,        
 
     },
     {
