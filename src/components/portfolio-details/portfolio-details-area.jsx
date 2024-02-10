@@ -35,7 +35,7 @@ const portfolio_detaisl_contact = {
             title: "Design , Development"
         },
     ],
-    title_1: "DIGITAL MARKETING",
+    title_1: "Seismic processing: outperform conventional software with AI solutions",
     description_1: <>Discover the power of our seismic processing solution, designed to revolutionize the way you work with raw geological data.  <br />
         Our technology allows for the precise data examination resulting in a highly accurate geological model.  <br />
         By utilizing our advanced AI capabilities, we can accelerate the processing of certain stages by up to 18 times. 
