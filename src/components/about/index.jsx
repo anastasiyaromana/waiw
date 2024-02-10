@@ -2,7 +2,7 @@ import React from 'react';
 import HeaderOne from '@/src/layout/headers/header';
 import Breadcrumb from '@/src/common/breadcrumb/breadcrumb';
 import AboutArea from './../homes/home-3/about-area';
-import AboutArea from './../homes/home-3/service-area';
+import TimeArea from './../homes/home-3/service-area';
 import CounterArea from '../homes/home-2/counter-area';
 import FeatureArea from '../homes/home/feature-area';
 import SupportArea from './support-area';
@@ -23,7 +23,7 @@ const About = () => {
             <Breadcrumb top_title="Our Company"  page_title="Our Company" />
             <AboutArea about={true} /> 
             <CounterArea about={true} />
-            <ServiceArea />
+            <TimeArea />
             {/* <SupportArea /> 
             <VideoArea /> */}
             <BrandArea />
