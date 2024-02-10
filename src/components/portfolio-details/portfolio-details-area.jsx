@@ -92,7 +92,7 @@ const PortfolioDetailsArea = () => {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-lg-8">
+                    <div className="col-lg-12">
                         <div className="tp-portfolio-details-wrapper">
                             <h3 className="tp-portfolio-details-title">{title_1}</h3>
                             <p>{description_1}</p>
@@ -103,6 +103,7 @@ const PortfolioDetailsArea = () => {
                                     <li key={index}><span><RightSymbol /></span>{list}</li>
                                 )}
                             </ul>    
+                            <p><p/>
                             <p>{description_2}</p>
                             </div>
                         </div>
