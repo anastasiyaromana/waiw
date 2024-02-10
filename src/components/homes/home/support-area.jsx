@@ -18,7 +18,7 @@ const support_content = [
         symbol: "min",
         cls: "fadeLeft",
         title: "For faults predictions",
-        info: <>Instant and detailed, <br /> on 1930km field area.</>
+        info: <>Instant and detailed, <br /> on 1930km<sup>2</sup>sup> field area.</>
     },
     {
         id: 3, 
