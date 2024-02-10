@@ -50,7 +50,7 @@ const portfolio_detaisl_contact = {
         <>Fast-track stack construction</>,
         <>Instantaneous error detection in geometry assignment using neural networks</>,
     ],
-    description_2: <>Meticulous attention to detail: we provide a bunch of quality control procedures to ensure the integrity of each step of seismic processing.</>,
+    description_2: <> <br />Meticulous attention to detail: we provide a bunch of quality control procedures to ensure the integrity of each step of seismic processing.</>,
 }
 const {meta_content, title_1, description_1, title_2, list_title, description_2}  = portfolio_detaisl_contact
 
@@ -103,7 +103,6 @@ const PortfolioDetailsArea = () => {
                                     <li key={index}><span><RightSymbol /></span>{list}</li>
                                 )}
                             </ul>    
-                            <p><p/>
                             <p>{description_2}</p>
                             </div>
                         </div>
