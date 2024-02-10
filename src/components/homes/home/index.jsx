@@ -21,9 +21,9 @@ const HomeOne = () => {
         <AboutArea />
         <PortfolioArea />
         <FeatureArea />
-        <BrandArea />
         <ServiceArea />
         <SupportArea />
+        <BrandArea />
         <FaqArea />
         <BlogArea />
         <ContactArea />
