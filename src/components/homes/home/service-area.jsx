@@ -156,8 +156,8 @@ const ServiceArea = () => {
                        {/* <Image className="shadow" src={fun_fact_shape_5} alt="theme-pure" />*/}
                      </div>
 
-                     <div className="row">
-                        <div className="col-lg-2 col-md-4">
+                    <div className="row">
+                        {/* <div className="col-lg-2 col-md-4">
                            <div className="tp-fun-fact-wrapper-box">
                               {counter_content.map((item, i) => 
                                  <div key={i} className="tp-fun-fact-wrapper">
@@ -169,7 +169,7 @@ const ServiceArea = () => {
                                  </div>
                               )} 
                            </div>
-                        </div>
+                        </div>  */}
                         <div className="col-lg-4 col-md-8">
                            <div className="tp-fun-fact-thumb p-relative">
                             <Image id="reload" src={reload_img} alt="scroll" />
