@@ -55,7 +55,7 @@ const answer_question_data = [
   },
   {
     id: 6,
-    question: <>What data we are working with??</>,
+    question: <>What data we are working with?</>,
     answer: <>Seismic processing involves working with different data formats at various processing stages. Initially, we can access information from RPS, SPS, or XPS files, later transition to using SEG-Y files. <br />
       Additionally, velocity data can be incorporated, often stored in formats compatible with conventional software like the Paradigm Echos VFUNC format, and others.</> ,
     accordion_id: "Six", 
