@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import React, { useRef } from 'react';
 
-
 import shape_1 from "@assets/img/brand/img-2.png";
 import shape_2 from "@assets/img/brand/img-3.png";
 import shape_3 from "@assets/img/brand/img-4.png";
@@ -10,10 +9,6 @@ import shape_5 from "@assets/img/brand/img-6.png";
 import shape_6 from "@assets/img/brand/img-7.png";
 import shape_7 from "@assets/img/brand/img-8.png";
 import shape_8 from "@assets/img/brand/img-9.png"; 
-import shape_5 from "@assets/img/brand/img-10.png";
-import shape_6 from "@assets/img/brand/img-11.png";
-import shape_7 from "@assets/img/brand/img-12.png";
-import shape_8 from "@assets/img/brand/img-12.png"; 
 import shape_9 from "@assets/img/brand/shape-3.png"; 
 
 import brand_thumb from "@assets/img/brand/img-1.png"; 
