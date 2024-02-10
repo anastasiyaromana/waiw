@@ -10,11 +10,11 @@ const Blog = () => {
     <>
       <HeaderOne />
       <main>
-        <Breadcrumb top_title="Blog Page" page_title="Blog" />
+        <Breadcrumb top_title="Technical Blog" page_title="Blog" />
         <PostboxArea />
         <FooterContact bg_style={true} />
       </main>
-      <FooterThree />
+      {/* <FooterThree /> */}
     </>
   );
 };
