@@ -21,11 +21,11 @@ const BlogArea = ({service}) => {
                     <div className="col-xl-12">
                         <div className="tp-blog-3-title-wrapper text-center">
                             <span className="tp-section-title__pre">
-                            blog <span className="title-pre-color">IT Solutions</span>
+                            pur blog <span className="title-pre-color">on Medium</span>
                             <AngleArrow /> 
                             </span>
                             <h3 className="tp-section-title">
-                                Best Digital <span className="title-color">Technology</span> <br /> Agency For People
+                                Cook Your Own <span className="title-color">AI </span> <br /> for Subsurface
                             </h3>
                         </div>
                     </div>
