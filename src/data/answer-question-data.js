@@ -1,8 +1,14 @@
 const answer_question_data = [
   {
     id: 1,
-    question: <>What open source development do you have?</>,
-    answer: <>We create SeismicPro and SeismiQB libraries to simplify seismic processing and interpretation. Additionally, SegFast enables rapid loading of SEG-Y files, while BatchFlow facilitates data management, ML model training, and related tasks. Two other libraries were developed for medical purposes: CardIO for in-depth analysis of electrocardiograms and RadIO for processing CT scans.</> ,
+    question: <>What open source development do you have and where can i find it?</>,
+    answer: <>We create SeismicPro and SeismiQB libraries to simplify seismic processing and interpretation. Additionally, SegFast enables rapid loading of SEG-Y files, while BatchFlow facilitates data management, 
+      ML model training, and related tasks. Two other libraries were developed for medical purposes: CardIO for in-depth analysis of electrocardiograms and RadIO for processing CT scans.
+      Where can I find open source projects? 
+  SeismicPro \/\/https://github.com/GeoscienceML/SeismicPro\/\/ <br />
+SeismicQB - \/\/https://github.com/GeoscienceML/seismiqb\/\/
+segfast - https://github.com/analysiscenter/segfast
+batchflow - https://github.com/analysiscenter/batchflow</> ,
     accordion_id: "One", 
     collapsed: "collapsed",
     aria_expanded: true,
