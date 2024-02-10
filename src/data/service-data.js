@@ -11,7 +11,7 @@ const service_data = [
         alphabet: "P",
         title: <>Open source <br /> AI solutions</>,
         img: service_img_1,
-        description: <>Provide transparency, security, customization, cost-effectiveness, community support and reliability for customers.</>,        
+        description: <>Provide transparency, security, customization, cost-effectiveness, community support and reliability for customers. </>,        
 
     },
     {
@@ -19,7 +19,7 @@ const service_data = [
         alphabet: "V",
         title: <>GPU with <br />  utmost parallelism</>,
         img: service_img_2,
-        description: <>The proposed tools maximize the utilization of computing resources, reducing the time to obtain the result to a minimum </>,       
+        description: <>The proposed tools maximize the utilization of computing resources, reducing the time to obtain the result to a minimum. </>,       
 
     },
     {
@@ -27,7 +27,7 @@ const service_data = [
         alphabet: "C",
         title: <>Multi-user <br /> environment</>,
         img: service_img_3,
-        description: <>The tools can be deployed both locally and within the cloud platform, making collaboration on a project even faster.</>,        
+        description: <>The tools can be deployed both locally and within the cloud platform, making collaboration on a project even faster. </>,        
 
     },
     {
@@ -35,7 +35,7 @@ const service_data = [
         alphabet: "M",
         title: <>Quality control <br />and visualization</>,
         img: service_img_4,
-        description: <>Our algorithms meticulously evaluate each step of seismic processing and interpretation, enabling swift detection and correction of data errors.</>,        
+        description: <>Our algorithms meticulously evaluate each step of seismic processing and interpretation, enabling swift detection and correction of data errors. </>,        
 
     },
     {
