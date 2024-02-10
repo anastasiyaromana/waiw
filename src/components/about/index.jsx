@@ -22,8 +22,8 @@ const About = () => {
             <Breadcrumb top_title="Our Company"  page_title="Our Company" />
             <AboutArea about={true} /> 
             <CounterArea about={true} />
-            <SupportArea />
-            <VideoArea />
+            {/* <SupportArea /> 
+            <VideoArea /> */}
             <BrandArea />
             <BlogArea />
             <FooterContact />
