@@ -36,25 +36,23 @@ const portfolio_detaisl_contact = {
         },
     ],
     title_1: "DIGITAL MARKETING",
-    description_1: <>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat qui ducimus illum modi?  perspiciatis
-    accusamus soluta perferendis, ad illum, nesciunt, reiciendis iusto et cupidit Repudiandae provident to
-    consectetur, sapiente, libero iure necessitatibus corporis nulla voluptate, quisquam aut perspiciatis?
-    Fugiat labore aspernatur eius, perspiciatis ut molestiae, delectus rem.</>,
-    description_2: <>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulv
-    inar dapibus leo. Ut enim ad minim veniam. when an unknown printer took a galley of type and scrambled
-    it to make a type specimen book. <br />
-    Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-    reprehenderit in voluptate velit esse cillum dolore eu fugiat. There are many variations of passages.</>,
-    title_2: <>This event will allow participants to:</>,
+    description_1: <>Discover the power of our seismic processing solution, designed to revolutionize the way you work with raw geological data.  <br />
+        Our technology allows for the precise data examination resulting in a highly accurate geological model.  <br />
+        By utilizing our advanced AI capabilities, we can accelerate the processing of certain stages by up to 18 times. 
+        This means that your field exploration can advance more rapidly than ever before.</>,
+    title_2: <>Explore our comprehensive solution, offering a countless of capabilities, including:</>,
     list_title: [
-        <>Business's managers, leaders</>,
-        <>Downloadable lectures, code and design assets for all projects</>,
-        <>Anyone who is finding a chance to get the promotion</>,
-    ]
-
-
+        <>Picking the first breaks, outperforming conventional software even in the most challenging geological settings</>,
+        <>Lightning-fast computation of refractor velocity for large surveys in a matter of minutes</>,
+        <>Seamless creation of a near-surface velocity model using the power of GPU</>,
+        <>A flexible interface for refraction statics correction</>,
+        <>Automatic and highly parallelized stacking velocity picking </>,
+        <>Fast-track stack construction</>,
+        <>Instantaneous error detection in geometry assignment using neural networks</>,
+    ],
+    description_2: <>Meticulous attention to detail: we provide a bunch of quality control procedures to ensure the integrity of each step of seismic processing.</>,
 }
-const {meta_content, title_1, description_1, description_2, title_2, list_title }  = portfolio_detaisl_contact
+const {meta_content, title_1, description_1, title_2, list_title, description_2}  = portfolio_detaisl_contact
 
 const PortfolioDetailsArea = () => {
     return (
@@ -67,7 +65,9 @@ const PortfolioDetailsArea = () => {
                             <div className="tp-portfolio-details-thumb">
                             <Image src={portfolio_thumb} alt="theme-pure" />
                             </div>
+                            
                             <div className="tp-portfolio-details-meta d-flex flex-wrap justify-content-between">
+                            {/*
                             <div className="tp-portfolio-details-meta-left d-flex flex-wrap">
                                 {meta_content.map((item, i) => 
                                     <div key={i} className="tp-portfolio-details-meta-item d-flex align-items-center">
@@ -81,9 +81,10 @@ const PortfolioDetailsArea = () => {
                                     </div> 
                                 )} 
                             </div>
+                            */}
                             <div className="tp-portfolio-details-right">
                                 <div className="tp-portfolio-details-btn">
-                                    <Link href="/portfolio">Need This Project?</Link>
+                                    <Link href="/Contact">Need This Project?</Link>
                                 </div>
                             </div>
                             </div>
@@ -95,17 +96,19 @@ const PortfolioDetailsArea = () => {
                         <div className="tp-portfolio-details-wrapper">
                             <h3 className="tp-portfolio-details-title">{title_1}</h3>
                             <p>{description_1}</p>
-                            <p>{description_2}</p>
                             <div className="tp-portfolio-details-list mb-30">
                             <h4 className="tp-portfolio-details-list-title">{title_2}</h4>
                             <ul>
                                 {list_title.map((list, index) => 
                                     <li key={index}><span><RightSymbol /></span>{list}</li>
                                 )}
-                            </ul>
+                            </ul>    
+                            <p>{description_2}</p>
                             </div>
                         </div>
                     </div>
+                  
+                    {/*
                     <div className="col-lg-4">
                         <div className="tp-portfolio-details-info-box">
                             <div className="tp-portfolio-details-info-address">
@@ -147,6 +150,7 @@ const PortfolioDetailsArea = () => {
                             </div>
                         </div>
                     </div>
+                    */}
                 </div>
                 </div>
             </section>
