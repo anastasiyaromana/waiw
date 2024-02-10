@@ -15,6 +15,7 @@ const service_data = [
         img: service_icon_1,
         title: <>2016</>,
         description: <>Research group in AI for Healthcare: Computer tomography CV, ECG Analysis, Seasonal population predictions (23mln patients data) <br />
+            <br />
         Open Sources: Batchflow, BF Research, CardIO+RadIO </>
     },
     {
@@ -22,6 +23,7 @@ const service_data = [
         img: service_icon_2,
         title: <>2019</>,
         description: <>Knowledge transfer of technolgy stack into Oil&Gas domain: Seismic processing, Interpretation, Petrophysics, Lithology <br />
+            <br />
         Open Sources: SeismicPro, SeismiQB, PyDENs </>
     },
     {
@@ -29,13 +31,15 @@ const service_data = [
         img: service_icon_3,
         title: <>2021</>,
         description: <>Launch of US DAC Inc., Expanded Nvidia partnership (scaling tests, NGC validation), 
-        AWS collaboration Establishing Omniverse-like visusalisation solution for scientific data</>
+        AWS collaboration <br />
+        Establishing Omniverse-like visusalisation solution for scientific data</>
     },
     {
         id: 4,
         img: service_icon_4,
         title: <>2023</>,
-        description: <>Scaling within MENA Dubai office (waiw LLC)* *Partners demanded simplier naming</>
+        description: <>Scaling within MENA Dubai office (waiw LLC)<br />
+        Partners demanded simplier naming</>
     },
 ]
 
