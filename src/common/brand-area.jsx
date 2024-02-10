@@ -51,7 +51,6 @@ const BrandArea = ({service}) => {
         <>
         {/* tp-brand-3-area breadcrumb-brand p-relative pt-65 pb-60 */}
              <div className={`tp-brand-3-area p-relative ${service ? "breadcrumb-brand" : ""} pt-65 pb-60`}>
-                <div className="tp-brand-3-right-color"></div>
                     <div className="container">
                     <div className="row">
                         <div className="col-xl-12">
