@@ -19,7 +19,6 @@ const HomeOne = () => {
       <main>
         <HeroSlider />
         <AboutArea />
-        <PortfolioArea />
         <FeatureArea />
         <ServiceArea />
         <SupportArea />
