@@ -70,15 +70,18 @@ const AboutArea = ({about}) => {
                         <div className="tp-about-3-wrapper">
                             <div className="tp-about-3-title-wrapper"> 
                                 <span className="tp-section-title__pre">
-                                    about <span className="title-pre-color">IT Solutions</span>
+                                    hist <span className="title-pre-color">IT Solutions</span>
                                     <AngleArrow /> 
                                 </span>
                                 <h3 className="tp-section-title">
-                                    Best Digital <span className="title-color">Technology</span> <br /> Agency For People
+                                    Our history and <span className="title-color">open source </span> <br /> legacy
                                 </h3> 
                             </div>
                             <p className="text">
-                                Transmax is the world’s driving worldwide coordinations supplier — we <br /> uphold industry and exchange the worldwide trade of merchandise <br /> through land transport.
+                                Through continuous research, collaboration we aim to be at the forefront of the <br />
+                                AI revolution, delivering reliable, transparent, and impactful results <br />
+                                that contribute to a smarter, more connected future uphold industry <br />
+                                and exchange the worldwide trade of merchandise through land transport.
                             </p>
                             <div className="tp-about-progressbar-inner d-flex flex-wrap pt-20">
                             <div className="tp-about-3-progressbar d-flex align-items-center">
@@ -107,7 +110,7 @@ const AboutArea = ({about}) => {
                                 </div>
                             </div>
                             </div>
-                            <div className="tp-about-3-btn-inner d-flex flex-wrap">
+                            {/*   <div className="tp-about-3-btn-inner d-flex flex-wrap">
                             <div className="tp-about-btn ">
                                 <Link className="tp-btn" href="/about">Our History 
                                     <i className="fa-regular fa-arrow-right-long"></i>
@@ -122,7 +125,7 @@ const AboutArea = ({about}) => {
                                     </span>
                                 </p>
                             </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
 
