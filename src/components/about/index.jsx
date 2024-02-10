@@ -21,8 +21,8 @@ const About = () => {
           <HeaderOne />  
           <main>
             <Breadcrumb top_title="Our Company"  page_title="Our Company" />
-              {/* <AboutArea about={true} /> */}
-            <CounterArea about={true} />
+              {/* <AboutArea about={true} /> 
+            <CounterArea about={true} /> */}
             <TimeArea />
             {/* <SupportArea /> 
             <VideoArea /> */}
