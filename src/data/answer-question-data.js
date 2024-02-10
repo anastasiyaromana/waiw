@@ -35,8 +35,10 @@ const answer_question_data = [
   },
   {
     id: 4,
-    question: <></>,
-    answer: <></> ,
+    question: <>What type of service do we provide?</>,
+    answer: <>1) We offer software development services, which include 3D visualization of complex scientific data integrated with AI algorithms to quickly prototype a field within a few hours. <br />
+  2) Our consulting services focus on accelerating seismic processing on GPUs using advanced ML algorithms. We provide a cost-effective solution for reprocessing legacy data. <br />
+  3) We provide professional training programs that deliver high-quality, hands-on Data Science education based on open-source technologies specifically designed for the Exploration and Production industry.</> ,
     accordion_id: "Four", 
     collapsed: "collapsed",
     aria_expanded: true,
