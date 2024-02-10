@@ -160,14 +160,6 @@ const HeroSlider = () => {
             </button>
           </div>
 
-          <div className="tp-hero-bottom">
-            <div className="tp-hero-experince">
-              <span className="year"> ??
-                <br /> <i className="experince">Years of Experience</i>
-              </span>
-            </div>
-          </div>
-
           <div
             className="tp-hero-service"
             style={{ backgroundImage: `url(/assets/img/hero/shape-6.png)` }} 
