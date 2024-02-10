@@ -78,9 +78,10 @@ const AboutArea = ({about}) => {
                                 </h3> 
                             </div>
                             <p className="text">
-                                Through continuous research, collaboration we aim to be at the forefront of the <br />
-                                AI revolution, delivering reliable, transparent, and impactful results <br />
-                                that contribute to a smarter, more connected future uphold industry <br />
+                                Through continuous research, collaboration we aim to be at <br />
+                                the forefront of the AI revolution, delivering reliable, <br />
+                                transparent, and impactful results that contribute  <br />
+                                to a smarter, more connected future uphold industry <br />
                                 and exchange the worldwide trade of merchandise through land transport.
                             </p>
                             <div className="tp-about-progressbar-inner d-flex flex-wrap pt-20">
