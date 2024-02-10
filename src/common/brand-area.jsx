@@ -19,21 +19,21 @@ const brand_img = [brand_img_1, brand_img_2, brand_img_3, brand_img_4, brand_img
 const setting = {
     slidesPerView: 10,
     autoplay: {
-        delay: 30,
+        delay: 10,
     },
     autoplay : true,
     breakpoints: {
         '1200': {
-            slidesPerView: 6,
-        },
-        '992': {
             slidesPerView: 5,
         },
-        '768': {
+        '992': {
             slidesPerView: 4,
         },
-        '576': {
+        '768': {
             slidesPerView: 3,
+        },
+        '576': {
+            slidesPerView: 2,
         },
         '0': {
             slidesPerView: 1,
