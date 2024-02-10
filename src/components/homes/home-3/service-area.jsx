@@ -13,26 +13,29 @@ const service_data = [
     {
         id: 1,
         img: service_icon_1,
-        title: <>It Server & <br /> Cyber Security</>,
-        description: <>Transmax is the world tr  we uphold industry Customer Oriented</>
+        title: <>2016</>,
+        description: <>Research group in AI for Healthcare: Computer tomography CV, ECG Analysis, Seasonal population predictions (23mln patients data) <br />
+        Open Sources: Batchflow, BF Research, CardIO+RadIO </>
     },
     {
         id: 2,
         img: service_icon_2,
-        title: <>Machine Learning <br /> And Ai</>,
-        description: <>Transmax is the world tr  we uphold industry Customer Oriented</>
+        title: <>2019</>,
+        description: <>Knowledge transfer of technolgy stack into Oil&Gas domain: Seismic processing, Interpretation, Petrophysics, Lithology <br />
+        Open Sources: SeismicPro, SeismiQB, PyDENs </>
     },
     {
         id: 3,
         img: service_icon_3,
-        title: <>It Server & <br /> Cyber Security</>,
-        description: <>Transmax is the world tr  we uphold industry Customer Oriented</>
+        title: <>2021</>,
+        description: <>Launch of US DAC Inc., Expanded Nvidia partnership (scaling tests, NGC validation), 
+        AWS collaboration Establishing Omniverse-like visusalisation solution for scientific data</>
     },
     {
         id: 4,
         img: service_icon_4,
-        title: <>Clouds Backup <br /> Services</>,
-        description: <>Transmax is the world tr  we uphold industry Customer Oriented</>
+        title: <>2023</>,
+        description: <>Scaling within MENA Dubai office (waiw LLC)* *Partners demanded simplier naming</>
     },
 ]
 
@@ -52,15 +55,15 @@ const ServiceArea = () => {
                                 <AngleArrow /> 
                                 </span>
                                 <h3 className="tp-section-title">
-                                    Best Digital <span className="title-color">Technology</span> <br /> Agency For People
+                                    Data Analysis Center: <span className="title-color">history </span> <br /> and open source legacy
                                 </h3>
                             </div>
                         </div>
                         <div className="col-xl-6">
                             <div className="tp-service-3-title-wrapper justify-content-start justify-content-xl-end d-flex">
-                                <p>Transmax is the world’s driving worldwide coordinations supplier <br />
-                                we uphold industry and exchange the worldwide trade of about <br />
-                                merchandise through land transport.w much you know</p>
+                                <p>Through continuous research, collaboration we aim to be at the forefront of the AI revolution,
+                                    delivering reliable, transparent, and impactful results that contribute to a smarter, more connected future
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -78,9 +81,9 @@ const ServiceArea = () => {
                                         </Link>
                                     </h4>
                                     <p>{item.description}</p>
-                                    <div className="tp-service-btn">
+                                    {/*<div className="tp-service-btn">
                                     <Link href="/service-details">Read More <i className="fa-solid fa-arrow-up-right"></i></Link>
-                                    </div>
+                                    </div>*/}
                                 </div>
                             </div>
                         )} 
@@ -90,8 +93,8 @@ const ServiceArea = () => {
                             <div className="tp-service-3-trend text-center mt-50">
                                 <p>
                                     <i className="fa-regular fa-arrow-right-long"></i> 
-                                        Bring them together and you overcome the ordinary. 
-                                    <Link href="/service-details"> View More SErvice</Link> 
+                                        Get in touch and advance your current explorations. 
+                                    <Link href="/contact"> Book a demo - we show our solutions </Link> 
                                     <i className="fa-regular fa-arrow-left-long"></i>
                                 </p>
                             </div>
