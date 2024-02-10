@@ -4,7 +4,7 @@ import HeroSlider from "./hero-slider";
 import AboutArea from "./about-area";
 import PortfolioArea from "@/src/components/portfolio/portfolio-area";
 import FeatureArea from "./feature-area";
-import BrandArea from '@/src/common/brand-area';"; 
+import BrandArea from '@/src/common/brand-area"; 
 import ServiceArea from "./service-area"; 
 import SupportArea from "./support-area";
 import FaqArea from "./faq-area";
