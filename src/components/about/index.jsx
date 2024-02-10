@@ -30,7 +30,7 @@ const About = () => {
             <BlogArea />
             <FooterContact />
           </main>
-          <FooterThree />
+         {/* <FooterThree /> */}
         </>
     );
 };
