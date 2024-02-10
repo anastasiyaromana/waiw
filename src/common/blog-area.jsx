@@ -33,22 +33,22 @@ const BlogArea = ({service}) => {
                         <div key={i} className="col-xl-4 col-md-6">
                             <div className="tp-blog-3-wrapper mb-30 OneByOne">
                                 <div className="tp-blog-3-thumb">
-                                <Link href="/blog-details">
+                                <Link href="https://medium.com/data-analysis-center">
                                     <Image src={item.img} alt="theme-pure" />
                                 </Link>
-                                <div className={`tp-blog-3-user ${item.cls}`}>
+                                {/*<div className={`tp-blog-3-user ${item.cls}`}>
                                     <Image src={item?.user} alt="theme-pure" />
                                     <p>By: {item.user_name}</p>
-                                </div>
+                                </div>*/}
                                 </div>
                                 <div className="tp-blog-3-content">
                                 <div className="tp-blog-date">
                                     <span><i className="fa-light fa-calendar-days"></i>{item.date}</span>
                                     <span>-</span>
-                                    <span><i className="fa-sharp fa-solid fa-comments"></i> {item.comment}</span>
+                                   {/*  <span><i className="fa-sharp fa-solid fa-comments"></i> {item.comment}</span>*/}
                                 </div>
                                 <h3 className="tp-blog-3-title">
-                                    <Link href="/blog-details">
+                                    <Link href="https://medium.com/data-analysis-center">
                                      {item.title}
                                     </Link>
                                 </h3>
