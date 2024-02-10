@@ -17,23 +17,23 @@ import brand_img_10 from "@assets/img/brand/home-3/brand-10.png";
 const brand_img = [brand_img_1, brand_img_2, brand_img_3, brand_img_4, brand_img_5, brand_img_6, brand_img_7, brand_img_8, brand_img_9, brand_img_10,]
 
 const setting = {
-    slidesPerView: 5,
+    slidesPerView: 10,
     autoplay: {
         delay: 30,
     },
     autoplay : true,
     breakpoints: {
         '1200': {
-            slidesPerView: 5,
+            slidesPerView: 6,
         },
         '992': {
-            slidesPerView: 4,
+            slidesPerView: 5,
         },
         '768': {
-            slidesPerView: 3,
+            slidesPerView: 4,
         },
         '576': {
-            slidesPerView: 2,
+            slidesPerView: 3,
         },
         '0': {
             slidesPerView: 1,
