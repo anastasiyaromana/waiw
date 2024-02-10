@@ -10,11 +10,11 @@ const PortfolioDetails = () => {
     <>
       <HeaderOne />
       <main>
-        <Breadcrumb top_title="IT Advisor" page_title=" Portfolio Details" />
+        {/*<Breadcrumb top_title="IT Advisor" page_title=" Portfolio Details" />*/}
         <PortfolioDetailsArea />
         <FooterContact bg_style={true} />
       </main>
-      <FooterThree />
+      {/* <FooterThree />*/}
     </>
   );
 };
