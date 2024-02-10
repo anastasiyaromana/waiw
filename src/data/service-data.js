@@ -11,7 +11,7 @@ const service_data = [
         alphabet: "P",
         title: <>Open source <br /> AI solutions</>,
         img: service_img_1,
-        description: <>Open-source AI software offers transparency, security, customization, cost-effectiveness, community support, avoidance of vendor lock-in, innovation, and reliability, benefiting customers in various ways. </>,        
+        description: <>Provide transparency, security, customization, cost-effectiveness, community support, avoidance of vendor lock-in, innovation, and reliability for customers.</>,        
 
     },
     {
