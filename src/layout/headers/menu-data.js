@@ -12,8 +12,8 @@ const menu_data = [
   {
     id: 2,
     mega_menu: false,
-    has_dropdown: true,
-    title: "Solutions",
+    has_dropdown: false,
+    title: "Projects",
     link: "/",
     active: "",
     sub_menus: [ 
@@ -25,7 +25,7 @@ const menu_data = [
     id: 3,
     mega_menu: false,
     has_dropdown: true,
-    title: "Open Sources",
+    title: "Open Source",
     link: "/",
     active: "",
     sub_menus: [
