@@ -10,8 +10,8 @@ const footer_contact = {
     footer_info: <>The world’s first and largest digital marketplace <br />for crypto collectibles and non-fungible tokens (NFTs). Buy</>,
     map_link: "https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1",
     address: <>86 Road Broklyn Street, 600 <br /> New York, USA</>,
-    mail: "needhelp@company.com",
-    phone: "+92 666 888 0000",
+    mail: "info@waiw.org",
+    phone: "+971585843940",
     service_links: [
         {title: "Parking permission", link: "#"},
         {title: "Fire Service Noc", link: "#"},
