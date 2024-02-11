@@ -205,7 +205,7 @@ const ServiceArea = () => {
                                     </li>
                                  </ul>
                                  <div className="tp-fun-fact-btn">
-                                    <Link className="tp-btn" href="/service-details">Book a demo </Link>
+                                    <Link className="tp-btn" href="/Contact">Book a demo </Link>
                                  </div>
                               </div>
                            </div>
