@@ -20,7 +20,7 @@ const FooterContact = ({bg_style, contact_style}) => {
                                 <Image className="shape-1" src={footer_contact_shape_2} alt="theme-pure" />
                                 <div className="tp-cta-4-mail d-flex flex-wrap justify-content-center justify-content-xl-start align-items-center">
                                     <Image src={conversation} alt="theme-pure" />
-                                    <a href="mailto:@partners.waiw.org">Contact us at <span>partners@waiw.org</span></a>
+                                    <a href="mailto:info@waiw.org">Contact us at <span>info@waiw.org</span></a>
                                 </div>
                             </div>
                         </div>
@@ -32,7 +32,7 @@ const FooterContact = ({bg_style, contact_style}) => {
                                     </div>
                                     <div className="tp-cta-4-content">
                                         <p>Tell us how we can help you </p>
-                                        <a href="tel:971566842766">+971566842766 (Whatsapp)</a>
+                                        <a href="tel:+971585843940">+971585843940 (Whatsapp)</a>
                                     </div>
                                 </div>
                             </div>
