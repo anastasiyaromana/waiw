@@ -9,10 +9,10 @@ import EmailAeroplan from '@/src/svg/email-aeroplan';
 import SocialLinks, { CopyRight } from '@/src/common/social-links';
 
 const footer_content = { 
-    contact_us: <> Contact us at <span>partners@waiw.org </span></>,
-    mail: "@partners.waiw.org",
+    contact_us: <> Contact us at <span>info@waiw.org </span></>,
+    mail: "info@waiw.org",
     contact_text: "Book a demo with IT Advisor",
-    phone: "971585843940",
+    phone: "+971585843940",
     address: <>Al Fahidi Dubai Municipality King 44-43 office number <br /> Emirate of Dubai, UAE</>,
 
 
