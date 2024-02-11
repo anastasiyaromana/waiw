@@ -44,8 +44,8 @@ const HeaderOne = () => {
                            <div className="tp-header-top-info">
                               <ul>
                                  <li>
-                                    <a href="mailto:ai@analysiscenter.org"><span>
-                                       <i className="fa-solid fa-envelope"></i></span>ai@analysiscenter.org
+                                    <a href="mailto:info@waiw.org"><span>
+                                       <i className="fa-solid fa-envelope"></i></span>info@waiw.org
                                     </a>
                                  </li>
 
@@ -55,7 +55,7 @@ const HeaderOne = () => {
                         <div className="col-xxl-6 col-xl-4">
                            <div className="tp-header-top-right d-flex justify-content-end align-items-center">
                               <div className="header-call">
-                                 <a href="tel:01310-069824"><i className="fa-solid fa-phone"></i>+971585843940 (WhatsApp)</a>
+                                 <a href="tel:+971585843940"><i className="fa-solid fa-phone"></i>+971585843940 (WhatsApp)</a>
                               </div>
                               <div className="header-social d-xxl-block d-none">
                                  <Link href="#"><i className="fa-brands fa-facebook"></i> Facebook</Link>
