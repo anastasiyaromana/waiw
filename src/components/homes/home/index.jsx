@@ -16,7 +16,7 @@ import Footer from "@/src/layout/footers/footer";
 const HomeOne = () => {
   return (
     <>
-      <HeaderOne />
+     {/* <HeaderOne /> */}
       <main>
         <HeroSlider />
         <AboutArea />
