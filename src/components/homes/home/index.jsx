@@ -19,7 +19,7 @@ const HomeOne = () => {
      {/* <HeaderOne /> */}
       <main>
         <HeroSlider />
-        <AboutArea />
+        {/*<AboutArea />*/}
         {/* <TimeArea /> */}
         <FeatureArea />
         <ServiceArea />
