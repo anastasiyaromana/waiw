@@ -179,11 +179,11 @@ const HeroSlider = () => {
       </section>
 
       {/* video modal start */}
-      <VideoPopup
+    {/*<VideoPopup
         isVideoOpen={isVideoOpen}
         setIsVideoOpen={setIsVideoOpen}
         videoId={"O9nV-YsO1wU"}
-      />
+      />*/}
       {/* video modal end */}
     </>
   );
