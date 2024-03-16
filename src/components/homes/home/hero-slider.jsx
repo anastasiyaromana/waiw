@@ -119,7 +119,7 @@ const HeroSlider = () => {
                                 </h3>
                                 <div className="tp-hero-btn">
                                   <Link className="tp-btn" href="/service-details">
-                                    Our advantages {" "}
+                                    Book a demo {" "}
                                     <i className="fa-regular fa-arrow-right-long"></i>
                                   </Link>
                                 </div>
