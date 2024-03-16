@@ -8,6 +8,7 @@ import BrandArea from "@/src/common/brand-area";
 import BlogArea from "@/src/common/blog-area";
 import FooterContact from "@/src/layout/footers/footer-contact";
 import FooterThree from "@/src/layout/footers/footer-3";
+import AboutArea from "@/src/components/homes/home/about-area";
 
 const Sevice = () => {
   return (
