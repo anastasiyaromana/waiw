@@ -130,12 +130,12 @@ const HeroSlider = () => {
                             </div>
                           </div>
                           <div className="col-lg-5">
-                            <div className="tp-hero-play-btn">
+                           {/* <div className="tp-hero-play-btn">
                               <button className="popup-video" onClick={() => setIsVideoOpen(true)}>
                                 <i className="fa-sharp fa-solid fa-play"></i>
                               </button>
                             </div>
-                          </div>
+                          </div>*/}
                         </div>
                       </div>
                     </div>
