@@ -54,11 +54,11 @@ const FeatureArea = ({about}) => {
                      <div className="tp-feature-title-wrapper">
                         <span className="tp-section-title__pre">
                            feature <span className="title-pre-color">IT Solutions</span>
-                           <AngleArrow /> 
+                           <AngleArrow />
                         </span>
                         <h3 className="tp-section-title">Productizing AI technologies <span className="title-color">since 2016</span>
                            <span className="title-right-shape"> 
-                             {/* <LineArrowFive /> */}
+                              <LineArrowFive />
                            </span>
                         </h3>
                      </div>
@@ -89,7 +89,7 @@ const FeatureArea = ({about}) => {
                                     <h3 className="feature-title">
                                         <Link href="/about">{item.title}</Link>
                                     <span> 
-                                        {/*  <AngleArrow />   /*}                           
+                                        <AngleArrow />                                
                                     </span>
                                     </h3>
                                     <p>{item.description}</p>
