@@ -170,7 +170,6 @@ const AboutArea = () => {
                                                 <Link href="/about">
                                                     <i className="fa-regular fa-arrow-right"></i>
                                                 </Link>
-                                            </div>
                                         </div>
                                     </SwiperSlide>  
                                 )} 
