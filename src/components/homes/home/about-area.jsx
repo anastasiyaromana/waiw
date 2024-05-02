@@ -158,7 +158,7 @@ const AboutArea = () => {
                                     modules={[Navigation]} 
                                     loop={isLoop} 
                                     className="about-active swiper-container"
-                                    >
+                            >
                                 {about_data.map((item, i)  =>  
                                     <SwiperSlide key={i} className="tp-about-item mb-30">
                                         <div className="tp-about-item-thumb">
