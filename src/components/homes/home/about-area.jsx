@@ -167,9 +167,6 @@ const AboutArea = () => {
                                         <div className="tp-about-item-content">
                                             <h4 className="about-title">{item.title}</h4>
                                             <p>{item.description}</p>
-                                                <Link href="/about">
-                                                    <i className="fa-regular fa-arrow-right"></i>
-                                                </Link>
                                         </div>
                                     </SwiperSlide>  
                                 )} 
