@@ -135,13 +135,13 @@ const ServiceArea = () => {
 
                      </div>
 
-                     <div className="row">
+                    {/* <div className="row">
                         <div className="col-lg-12">
                            <div className="tp-service-all-btn text-center fadeUp">
                               <Link className="tp-btn" href="/service-details">View all details</Link>
                            </div>
                         </div>
-                     </div>
+                     </div> */}
 
                   </div>
                </section> 
