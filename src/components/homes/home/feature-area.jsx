@@ -96,9 +96,6 @@ const FeatureArea = ({about}) => {
                                 </div>
                             </div>
                         </div>
-                        <div className="tp-feature-item-btn">
-                            <Link href="/about"><i className="fa-regular fa-arrow-right"></i></Link>
-                        </div>
                     </div>
                 </div> 
                 )} 
