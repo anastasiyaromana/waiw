@@ -57,7 +57,7 @@ const about_data = [
 ]
 
 const setting = {
-    slidesPerView: 3,
+    slidesPerView: 4,
     spaceBetween: 82,  
     navigation: {
         nextEl: ".about-button-next-1",
@@ -83,11 +83,11 @@ const setting = {
             spaceBetween:60,
         },
         '1200': {
-            spaceBetween:30,
-            slidesPerView: 2,
+            spaceBetween:10,
+            slidesPerView: 3,
         },
         '992': {
-            spaceBetween:60,
+            spaceBetween:10,
             slidesPerView: 2,
         },
         '767': {
@@ -167,7 +167,6 @@ const AboutArea = () => {
                                         <div className="tp-about-item-content">
                                             <h4 className="about-title">{item.title}</h4>
                                             <p>{item.description}</p>
-                                            <div className="tp-about-item-btn">
                                                 <Link href="/about">
                                                     <i className="fa-regular fa-arrow-right"></i>
                                                 </Link>
